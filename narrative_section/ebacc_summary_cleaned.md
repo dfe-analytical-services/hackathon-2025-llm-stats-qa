@@ -1,16 +1,13 @@
-# EBacc Entry and Achievement Summary
-
-* Key points:
-  * Girls have consistently higher percentages of EBacc entry and higher average EBacc APS scores than boys.
-  * The Asian ethnic group has the highest EBacc entry and achievement rates compared to other ethnic groups.
-  * Pupils with no SEN provision have higher percentages of EBacc entry and higher average EBacc APS scores than those with SEN State EHC or SEN Supp provision.
-  * Disadvantaged pupils have lower percentages of EBacc entry and lower average EBacc APS scores than non-disadvantaged pupils.
-  * Pupils not eligible for free school meals have higher percentages of EBacc entry and higher average EBacc APS scores than those eligible for free school meals.
-  * Pupils with a first language of "Other than English" tend to have higher percentages of EBacc entry and higher average EBacc APS scores than those with a first language of "English".
-  * There are significant differences in EBacc entry and achievement across different religious denominations.
+Here is a bullet-pointed summary of the key points:
+* Girls have consistently higher percentages of pupils entering the EBacc and higher average EBacc APS scores than boys across all available years.
+* The Asian ethnic group has consistently higher EBacc entry and achievement rates compared to other ethnic groups.
+* Pupils with no SEN provision have consistently higher percentages of EBacc entry and higher average EBacc APS scores compared to those with SEN State EHC or SEN Supp provision.
+* There are significant gaps in EBacc entry and achievement rates between disadvantaged and non-disadvantaged pupils, with disadvantaged pupils having lower percentages of EBacc entry and lower average EBacc APS scores.
+* Pupils not eligible for free school meals have consistently higher percentages of EBacc entry and higher average EBacc APS scores than those eligible for free school meals.
+* Pupils with a first language of "Other than English" tend to have higher percentages of EBacc entry and higher average EBacc APS scores compared to those with a first language of "English".
+* There are significant differences in EBacc entry and achievement across different religious denominations, with Muslim and Sikh schools having higher percentages of pupils entering the EBacc and Hindu and Jewish schools having higher average EBacc APS scores.
 
 ### EBacc entry and achievement by Sex
-
 #### Percentage of pupils entering the EBacc
 | Sex | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -33,9 +30,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Girls-Boys | 0.36 | 0.38 | 0.44 | 0.52 | 0.52 | 0.48 |
 
-The data shows that girls have consistently higher percentages of EBacc entry and higher average EBacc APS scores than boys.
+The data shows that girls have consistently higher percentages of pupils entering the EBacc and higher average EBacc APS scores than boys across all available years. The gap in the percentage of pupils entering the EBacc between girls and boys has remained relatively stable, ranging from 8.0 to 11.6 percentage points. The gap in average EBacc APS scores has also remained relatively stable, ranging from 0.36 to 0.52 points.
+
 
 ### EBacc entry and achievement by Ethnicity Major
+The following tables show the EBacc entry and achievement rates for different ethnic groups over time.
 
 #### Percentage of pupils entering the EBacc
 | Ethnicity Major | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
@@ -75,9 +74,63 @@ The data shows that girls have consistently higher percentages of EBacc entry an
 | Asian-Unclassified | 1.1 | 1.07 | 1.15 | 1.08 | 1.29 | 1.06 |
 | Asian-White | 0.88 | 0.86 | 0.75 | 0.67 | 0.58 | 0.57 |
 
-The data shows that the Asian ethnic group has consistently higher EBacc entry and achievement rates compared to other ethnic groups.
+The data shows that the Asian ethnic group has consistently higher EBacc entry and achievement rates compared to other ethnic groups. The gaps in EBacc entry rates between Asian and other ethnic groups are significant, with the largest gap being between Asian and Unclassified (17.1 percentage points in 2023/24). The gaps in Average EBacc APS scores are also significant, with the largest gap being between Asian and Unclassified (1.1 points in 2023/24).
+
+
+### EBacc entry and achievement by Ethnicity Minor
+The following tables show the percentage of pupils entering the EBacc, and the average EBacc APS score, by ethnicity minor, over the academic years 2023/24 to 2018/19.
+
+#### Percentage of pupils entering the EBacc
+| ethnicity_minor | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Any other Asian background | 51.2 | 53.1 | 54.1 | 52.9 | 55.9 | 56.1 |
+| Bangladeshi | 55.5 | 54.2 | 53.1 | 53.5 | 52.8 | 49.1 |
+| Chinese | 67.3 | 64.2 | 61.8 | 62.4 | 64.2 | 61.6 |
+| Indian | 58.6 | 59.4 | 58.8 | 58.7 | 60 | 59 |
+| Pakistani | 48.3 | 46.1 | 44.2 | 43.9 | 44.4 | 43.6 |
+| Any other black background | 43.8 | 43.9 | 44 | 43.6 | 46.8 | 44.1 |
+| Black African | 47.9 | 49.3 | 50 | 48.8 | 50.9 | 50.5 |
+| Caribbean | 38.7 | 39.1 | 37.4 | 36.7 | 39 | 37.4 |
+| Any other mixed background | 47.5 | 46.8 | 46.8 | 46 | 48.8 | 48.7 |
+| White and Asian | 48.8 | 46.7 | 47.1 | 47 | 49.1 | 50.6 |
+| White and Black African | 44.2 | 43 | 42.9 | 41.8 | 47.9 | 45.5 |
+| White and Black Caribbean | 32.1 | 30.2 | 30.4 | 31.4 | 32.5 | 32.5 |
+| Any other ethnic group | 52.5 | 52 | 51.5 | 51 | 51.1 | 51.1 |
+| Unclassified | 36.5 | 36.1 | 33.7 | 33.4 | 30.8 | 33 |
+| Any other white background | 54.6 | 51.5 | 51.3 | 49.2 | 49.9 | 49.5 |
+| Gypsy/Roma | 14.5 | 14.6 | 13.1 | 10.5 | 10.9 | 11.1 |
+| Traveller of Irish heritage | 19.5 | 18.5 | 11.8 | 20.5 | 20.6 | 15.2 |
+| White British | 35.2 | 34.3 | 34.1 | 34.7 | 35.9 | 36.6 |
+| White Irish | 44.9 | 44.3 | 44.8 | 44.4 | 48.7 | 46.9 |
+
+#### Average EBacc APS score
+| ethnicity_minor | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Any other Asian background | 4.85 | 4.93 | 5.18 | 5.33 | 5.24 | 4.97 |
+| Bangladeshi | 4.67 | 4.62 | 4.87 | 4.98 | 4.81 | 4.45 |
+| Chinese | 6.29 | 6.2 | 6.16 | 6.44 | 6.31 | 5.99 |
+| Indian | 5.43 | 5.43 | 5.61 | 5.69 | 5.57 | 5.24 |
+| Pakistani | 4.18 | 4.13 | 4.34 | 4.46 | 4.33 | 4.03 |
+| Any other black background | 3.97 | 3.89 | 4.15 | 4.24 | 4.18 | 3.76 |
+| Black African | 4.34 | 4.32 | 4.54 | 4.66 | 4.54 | 4.21 |
+| Caribbean | 3.43 | 3.42 | 3.58 | 3.75 | 3.75 | 3.33 |
+| Any other mixed background | 4.38 | 4.37 | 4.57 | 4.72 | 4.65 | 4.39 |
+| White and Asian | 4.74 | 4.61 | 4.9 | 5.02 | 5 | 4.77 |
+| White and Black African | 4.14 | 4.09 | 4.32 | 4.45 | 4.54 | 4.19 |
+| White and Black Caribbean | 3.34 | 3.31 | 3.58 | 3.81 | 3.81 | 3.46 |
+| Any other ethnic group | 4.32 | 4.29 | 4.53 | 4.71 | 4.59 | 4.3 |
+| Unclassified | 3.71 | 3.71 | 3.76 | 3.94 | 3.6 | 3.51 |
+| Any other white background | 4.55 | 4.42 | 4.61 | 4.72 | 4.6 | 4.25 |
+| Gypsy/Roma | 1.64 | 1.62 | 1.68 | 1.78 | 1.83 | 1.47 |
+| Traveller of Irish heritage | 2.61 | 2.25 | 2.34 | 2.57 | 2.68 | 2.14 |
+| White British | 3.87 | 3.88 | 4.13 | 4.33 | 4.3 | 3.99 |
+| White Irish | 4.52 | 4.51 | 4.85 | 4.96 | 4.96 | 4.63 |
+
+The data shows that the percentage of pupils entering the EBacc varies across different ethnic minority groups, with Chinese pupils having the highest percentage (67.3% in 2023/24) and Gypsy/Roma pupils having the lowest percentage (14.5% in 2023/24). The average EBacc APS score also varies across different ethnic minority groups, with Chinese pupils having the highest average score (6.29 in 2023/24) and Gypsy/Roma pupils having the lowest average score (1.64 in 2023/24).
+
 
 ### EBacc entry and achievement by Admission Type
+The following tables show the percentage of pupils entering the EBacc, and the average EBacc APS score, by admission type and academic year.
 
 #### Percentage of pupils entering the EBacc
 | Admission Type | 2023/24 | 2022/23 | 2021/22 | 2020/21 | 2019/20 | 2018/19 |
@@ -107,9 +160,11 @@ The data shows that the Asian ethnic group has consistently higher EBacc entry a
 | selective schools - non-selective schools in other areas | 2.72 | 2.7 | 2.7 | 2.63 | 2.61 | 2.71 |
 | non-selective schools in other areas - non-selective schools in highly selective areas | 0.5 | 0.5 | 0.55 | 0.53 | 0.47 | 0.53 |
 
-The data shows that selective schools have consistently higher percentages of pupils entering the EBacc and higher average EBacc APS scores compared to non-selective schools.
+The data shows that selective schools have consistently higher percentages of pupils entering the EBacc and higher average EBacc APS scores compared to non-selective schools in highly selective areas and non-selective schools in other areas.
+
 
 ### EBacc entry and achievement by Sen Provision
+The following tables show the percentage of pupils entering the EBacc, and average EBacc APS scores, by special educational needs (SEN) provision over time.
 
 #### Percentage of pupils entering the EBacc
 | sen_provision | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
@@ -141,116 +196,6 @@ The data shows that selective schools have consistently higher percentages of pu
 
 The data shows that pupils with no SEN provision have consistently higher percentages of EBacc entry and higher average EBacc APS scores compared to those with SEN State EHC or SEN Supp provision.
 
-### EBacc entry and achievement by Disadvantage
 
-#### Percentage of pupils entering the EBacc
-| Disadvantage | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Disadvantaged | 28.6 | 27.7 | 26.9 | 27 | 27.8 | 27.5 |
-| Disadvantaged all other | 44.7 | 43.4 | 43 | 42.9 | 44 | 44.5 |
-
-#### Average EBacc APS score
-| Disadvantage | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Disadvantaged | 2.99 | 2.97 | 3.19 | 3.4 | 3.39 | 3.08 |
-| Disadvantaged all other | 4.46 | 4.44 | 4.66 | 4.82 | 4.73 | 4.43 |
-
-#### Gaps in Percentage of pupils entering the EBacc
-| Time Period | Gap |
-| --- | --- |
-| 202324 | 16.1 |
-| 202223 | 15.7 |
-| 202122 | 16.1 |
-| 202021 | 15.9 |
-| 201920 | 16.2 |
-| 201819 | 17 |
-
-#### Gaps in Average EBacc APS score
-| Time Period | Gap |
-| --- | --- |
-| 202324 | 1.47 |
-| 202223 | 1.47 |
-| 202122 | 1.47 |
-| 202021 | 1.42 |
-| 201920 | 1.34 |
-| 201819 | 1.35 |
-
-The data shows that disadvantaged pupils have lower percentages of EBacc entry and lower average EBacc APS scores compared to non-disadvantaged pupils.
-
-### EBacc entry and achievement by Free School Meals
-
-#### Percentage of pupils entering the EBacc
-| Free School Meals Status | 2023/24 | 2022/23 | 2021/22 | 2020/21 | 2019/20 | 2018/19 |
-| --- | --- | --- | --- | --- | --- | --- |
-| FSM | 28.6 | 27.4 | 26.1 | 25.7 | 25.7 | 25.1 |
-| FSM all other | 44.2 | 42.7 | 42 | 41.7 | 42.4 | 42.4 |
-
-#### Average EBacc APS score
-| Free School Meals Status | 2023/24 | 2022/23 | 2021/22 | 2020/21 | 2019/20 | 2018/19 |
-| --- | --- | --- | --- | --- | --- | --- |
-| FSM | 2.99 | 2.95 | 3.13 | 3.29 | 3.24 | 2.91 |
-| FSM all other | 4.42 | 4.38 | 4.57 | 4.71 | 4.6 | 4.26 |
-
-#### Gaps in Percentage of pupils entering the EBacc
-| Time Period | Gap |
-| --- | --- |
-| 2023/24 | 15.6 |
-| 2022/23 | 15.3 |
-| 2021/22 | 15.9 |
-| 2020/21 | 15.9 |
-| 2019/20 | 16.7 |
-| 2018/19 | 17.3 |
-
-#### Gaps in Average EBacc APS score
-| Time Period | Gap |
-| --- | --- |
-| 2023/24 | 1.43 |
-| 2022/23 | 1.43 |
-| 2021/22 | 1.44 |
-| 2020/21 | 1.42 |
-| 2019/20 | 1.36 |
-| 2018/19 | 1.35 |
-
-The data shows that pupils not eligible for free school meals have higher percentages of EBacc entry and higher average EBacc APS scores compared to those eligible for free school meals.
-
-### EBacc entry and achievement by First Language
-
-#### Percentage of pupils entering the EBacc
-| First Language | 2023/24 | 2022/23 | 2021/22 | 2020/21 | 2019/20 | 2018/19 |
-| --- | --- | --- | --- | --- | --- | --- |
-| English | 37.8 | 36.7 | 36.4 | 36.7 | 37.9 | 38.2 |
-| Other than English | 52.2 | 51.2 | 50.7 | 49 | 50 | 49.4 |
-| Unclassified EAL | 28.5 | 28.3 | 22.3 | 20.3 | 15 | 22.9 |
-
-#### Average EBacc APS score
-| First Language | 2023/24 | 2022/23 | 2021/22 | 2020/21 | 2019/20 | 2018/19 |
-| --- | --- | --- | --- | --- | --- | --- |
-| English | 3.99 | 3.99 | 4.22 | 4.41 | 4.36 | 4.04 |
-| Other than English | 4.46 | 4.4 | 4.58 | 4.69 | 4.58 | 4.27 |
-| Unclassified EAL | 3.09 | 3.11 | 2.82 | 2.91 | 2.19 | 2.69 |
-
-#### Gaps in Percentage of pupils entering the EBacc
-| First Language Comparison | 2023/24 | 2022/23 | 2021/22 | 2020/21 | 2019/20 | 2018/19 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Other than English - English | 14.4 | 14.5 | 14.3 | 12.3 | 12.1 | 11.2 |
-| Unclassified EAL - English | -9.3 | -8.4 | -14.1 | -16.4 | -22.9 | -15.3 |
-| Unclassified EAL - Other than English | -23.7 | -22.9 | -28.4 | -28.7 | -35 | -26.5 |
-
-#### Gaps in Average EBacc APS score
-| First Language Comparison | 2023/24 | 2022/23 | 2021/22 | 2020/21 | 2019/20 | 2018/19 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Other than English - English | 0.47 | 0.41 | 0.36 | 0.28 | 0.22 | 0.23 |
-| Unclassified EAL - English | -0.9 | -0.88 | -1.4 | -1.5 | -2.17 | -1.35 |
-| Unclassified EAL - Other than English | -1.37 | -1.29 | -1.76 | -1.78 | -2.39 | -1.58 |
-
-The data shows that pupils with a first language of "Other than English" tend to have higher percentages of EBacc entry and higher average EBacc APS scores compared to those with a first language of "English".
-
-### EBacc entry and achievement by Religious Denomination
-
-#### Percentage of pupils entering the EBacc
-| Religious Denomination | 202324 | 202223 | 202122 | 202021 | 201920 | 201819 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Church of England | 37.8 | 37.6 | 38.3 | 38.6 | 41.2 | 41.9 |
-| Hindu | 74.6 | 76.8 | 83.1 | 79.3 | - | 88.3 |
-| Jewish | 38.7 | 38.7 | 41.4 | 42.8 | 41.1 | 42.5 |
-| Muslim | 89 | 90.6 | 86.1 | 86.1 | 83.2
+### EBacc entry and achievement by Sen Primary Need
+The following tables show the percentage of pupils entering the EBacc, and average

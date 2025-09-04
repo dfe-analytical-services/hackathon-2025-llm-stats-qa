@@ -1,0 +1,55 @@
+Missing Values:
+time_period                 0
+time_identifier             0
+geographic_level            0
+country_code                0
+country_name                0
+region_code              2060
+region_name              2060
+apprenticeship_level        0
+age_youth_adult             0
+age_group                   0
+funding_type                0
+provider_type               0
+start_count              3694
+achievement_count        4957
+participation_count     14096
+starts_percent          17029
+achievements_percent    17043
+dtype: int64
+
+Data Types:
+time_period               int64
+time_identifier          object
+geographic_level         object
+country_code             object
+country_name             object
+region_code              object
+region_name              object
+apprenticeship_level     object
+age_youth_adult          object
+age_group                object
+funding_type             object
+provider_type            object
+start_count             float64
+achievement_count       float64
+participation_count     float64
+starts_percent          float64
+achievements_percent    float64
+dtype: object
+
+Summary Statistics:
+         time_period    start_count  ...  starts_percent  achievements_percent
+count   20121.000000   16427.000000  ...     3092.000000           3078.000000
+mean   202276.248248    3294.087174  ...       17.067173             17.147791
+std       113.426211   11377.686399  ...       18.209537             18.553123
+min    202122.000000      10.000000  ...        0.500000              0.500000
+25%    202223.000000      60.000000  ...        5.600000              5.400000
+50%    202324.000000     530.000000  ...       10.600000             10.900000
+75%    202425.000000    2410.000000  ...       22.725000             22.700000
+max    202425.000000  288800.000000  ...      100.000000            100.000000
+
+[8 rows x 6 columns]
+
+Outliers:
+{'time_period': np.int64(0), 'start_count': np.int64(1912), 'achievement_count': np.int64(1726), 'participation_count': np.int64(731), 'starts_percent': np.int64(188), 'achievements_percent': np.int64(189)}

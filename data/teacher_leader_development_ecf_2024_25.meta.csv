@@ -1,0 +1,10 @@
+﻿col_name,col_type,label,indicator_grouping,indicator_unit,indicator_dp,filter_hint,filter_grouping_column
+programme,Filter,Program Type,,,,,
+group_name,Filter,Group Name,,,,,breakdown
+total_ects_count,Indicator,Early career teachers,,,0,,
+cumulative_ects,Indicator,Cumulative early career teachers,,,0,,
+count_swfc_ects,Indicator,SWC matched early career teachers,,,0,,
+breakdown_percent_ect,Indicator,Characteristic percentage,,%,1,,
+breakdown_percent_swfc_ect,Indicator,SWC matched characterisitc percentage,,%,1,,
+programme_percent_ect,Indicator,Programme type percentage,,%,1,,
+programme_percent_swfc_ect,Indicator,SWC matched programme type percentage,,%,1,,

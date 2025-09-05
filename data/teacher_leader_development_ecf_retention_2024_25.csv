@@ -1,0 +1,433 @@
+time_period,time_identifier,geographic_level,country_name,country_code,region_name,region_code,programme,breakdown,group_name,count_swfc_ects,count_one_year_retention,count_two_year_retention,count_three_year_retention,percent_one_year_retention,percent_two_year_retention,percent_three_year_retention
+202122,Academic year,National,England,E92000001,,,Overall,Overall,Overall,21726,19046,17238,15958,87.7,79.3,73.5
+202223,Academic year,National,England,E92000001,,,Overall,Overall,Overall,21229,18868,17089,z,88.9,80.5,z
+202324,Academic year,National,England,E92000001,,,Overall,Overall,Overall,18031,16180,z,z,89.7,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Overall,Overall,20687,18144,16448,15244,87.7,79.5,73.7
+202223,Academic year,National,England,E92000001,,,Provider-led,Overall,Overall,20220,17993,16313,z,89,80.7,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Overall,Overall,17229,15450,z,z,89.7,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Overall,Overall,1039,902,790,714,86.8,76,68.7
+202223,Academic year,National,England,E92000001,,,School-led,Overall,Overall,1009,875,776,z,86.7,76.9,z
+202324,Academic year,National,England,E92000001,,,School-led,Overall,Overall,802,730,z,z,91,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase,Other,748,684,625,589,91.4,83.6,78.7
+202223,Academic year,National,England,E92000001,,,Overall,School phase,Other,811,744,678,z,91.7,83.6,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase,Other,727,664,z,z,91.3,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase,Primary,9373,8339,7605,7088,89,81.1,75.6
+202223,Academic year,National,England,E92000001,,,Overall,School phase,Primary,9970,8905,8107,z,89.3,81.3,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase,Primary,8697,7811,z,z,89.8,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase,Secondary,11605,10023,9008,8281,86.4,77.6,71.4
+202223,Academic year,National,England,E92000001,,,Overall,School phase,Secondary,10448,9219,8304,z,88.2,79.5,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase,Secondary,8607,7705,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase,Other,727,663,608,572,91.2,83.6,78.7
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase,Other,781,718,651,z,91.9,83.4,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase,Other,716,654,z,z,91.3,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase,Primary,9070,8079,7371,6869,89.1,81.3,75.7
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase,Primary,9644,8620,7856,z,89.4,81.5,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase,Primary,8441,7573,z,z,89.7,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase,Secondary,10890,9402,8469,7803,86.3,77.8,71.7
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase,Secondary,9795,8655,7806,z,88.4,79.7,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase,Secondary,8072,7223,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase,Other,21,21,17,17,u,u,u
+202223,Academic year,National,England,E92000001,,,School-led,School phase,Other,30,26,27,z,86.7,90,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase,Other,11,10,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase,Primary,303,260,234,219,85.8,77.2,72.3
+202223,Academic year,National,England,E92000001,,,School-led,School phase,Primary,326,285,251,z,87.4,77,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase,Primary,256,238,z,z,93,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase,Secondary,715,621,539,478,86.9,75.4,66.9
+202223,Academic year,National,England,E92000001,,,School-led,School phase,Secondary,653,564,498,z,86.4,76.3,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase,Secondary,535,482,z,z,90.1,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School type,Academies,13011,11308,10196,9455,86.9,78.4,72.7
+202223,Academic year,National,England,E92000001,,,Overall,School type,Academies,12625,11157,10158,z,88.4,80.5,z
+202324,Academic year,National,England,E92000001,,,Overall,School type,Academies,11041,9879,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School type,Free schools,1125,975,866,792,86.7,77,70.4
+202223,Academic year,National,England,E92000001,,,Overall,School type,Free schools,1096,985,859,z,89.9,78.4,z
+202324,Academic year,National,England,E92000001,,,Overall,School type,Free schools,979,890,z,z,90.9,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School type,Local authority maintained schools,7186,6387,5835,5387,88.9,81.2,75
+202223,Academic year,National,England,E92000001,,,Overall,School type,Local authority maintained schools,7069,6324,5710,z,89.5,80.8,z
+202324,Academic year,National,England,E92000001,,,Overall,School type,Local authority maintained schools,5658,5087,z,z,89.9,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School type,Other types,8,5,c,c,u,c,c
+202223,Academic year,National,England,E92000001,,,Overall,School type,Other types,7,7,6,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Overall,School type,Other types,4,4,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School type,Special schools,396,371,338,321,93.7,85.4,81.1
+202223,Academic year,National,England,E92000001,,,Overall,School type,Special schools,432,395,356,z,91.4,82.4,z
+202324,Academic year,National,England,E92000001,,,Overall,School type,Special schools,349,320,z,z,91.7,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School type,Academies,12397,10764,9729,9037,86.8,78.5,72.9
+202223,Academic year,National,England,E92000001,,,Provider-led,School type,Academies,12057,10668,9716,z,88.5,80.6,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School type,Academies,10536,9424,z,z,89.4,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School type,Free schools,1078,934,833,759,86.6,77.3,70.4
+202223,Academic year,National,England,E92000001,,,Provider-led,School type,Free schools,1038,938,815,z,90.4,78.5,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School type,Free schools,938,850,z,z,90.6,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School type,Local authority maintained schools,6825,6087,5558,5137,89.2,81.4,75.3
+202223,Academic year,National,England,E92000001,,,Provider-led,School type,Local authority maintained schools,6705,6001,5436,z,89.5,81.1,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School type,Local authority maintained schools,5408,4858,z,z,89.8,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School type,Other types,8,5,c,c,u,c,c
+202223,Academic year,National,England,E92000001,,,Provider-led,School type,Other types,7,7,6,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School type,Other types,4,4,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School type,Special schools,379,354,325,308,93.4,85.8,81.3
+202223,Academic year,National,England,E92000001,,,Provider-led,School type,Special schools,413,379,340,z,91.8,82.3,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School type,Special schools,343,314,z,z,91.5,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School type,Academies,614,544,467,418,88.6,76.1,68.1
+202223,Academic year,National,England,E92000001,,,School-led,School type,Academies,568,489,442,z,86.1,77.8,z
+202324,Academic year,National,England,E92000001,,,School-led,School type,Academies,505,455,z,z,90.1,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School type,Free schools,47,41,33,33,87.2,70.2,70.2
+202223,Academic year,National,England,E92000001,,,School-led,School type,Free schools,58,47,44,z,81,75.9,z
+202324,Academic year,National,England,E92000001,,,School-led,School type,Free schools,41,40,z,z,97.6,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School type,Local authority maintained schools,361,300,277,250,83.1,76.7,69.3
+202223,Academic year,National,England,E92000001,,,School-led,School type,Local authority maintained schools,364,323,274,z,88.7,75.3,z
+202324,Academic year,National,England,E92000001,,,School-led,School type,Local authority maintained schools,250,229,z,z,91.6,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School type,Other types,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,School type,Other types,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,School type,Other types,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School type,Special schools,17,17,13,13,u,u,u
+202223,Academic year,National,England,E92000001,,,School-led,School type,Special schools,19,16,16,z,u,u,z
+202324,Academic year,National,England,E92000001,,,School-led,School type,Special schools,6,6,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Academies,252,227,212,196,90.1,84.1,77.8
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Academies,275,252,235,z,91.6,85.5,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Academies,271,241,z,z,88.9,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Free schools,52,44,40,38,84.6,76.9,73.1
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Free schools,54,50,43,z,92.6,79.6,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Free schools,66,64,z,z,97,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Local authority maintained schools,40,37,32,31,92.5,80,77.5
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Local authority maintained schools,43,40,38,z,93,88.4,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Local authority maintained schools,37,35,z,z,94.6,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Other types,8,5,c,c,u,c,c
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Other types,7,7,6,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Other types,4,4,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Special schools,396,371,338,321,93.7,85.4,81.1
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Special schools,432,395,356,z,91.4,82.4,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Other - Special schools,349,320,z,z,91.7,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Academies,4164,3665,3353,3142,88,80.5,75.5
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Academies,4603,4088,3740,z,88.8,81.3,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Academies,4224,3782,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Free schools,241,218,194,181,90.5,80.5,75.1
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Free schools,225,209,191,z,92.9,84.9,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Free schools,246,225,z,z,91.5,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Local authority maintained schools,4968,4456,4058,3765,89.7,81.7,75.8
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Local authority maintained schools,5142,4608,4176,z,89.6,81.2,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Primary - Local authority maintained schools,4227,3804,z,z,90,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Academies,8595,7416,6631,6117,86.3,77.1,71.2
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Academies,7747,6817,6183,z,88,79.8,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Academies,6546,5856,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Free schools,832,713,632,573,85.7,76,68.9
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Free schools,817,726,625,z,88.9,76.5,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Free schools,667,601,z,z,90.1,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Local authority maintained schools,2178,1894,1745,1591,87,80.1,73
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Local authority maintained schools,1884,1676,1496,z,89,79.4,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Secondary - Local authority maintained schools,1394,1248,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,Overall,School phase*type,Unknown,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,Overall,School phase*type,Unknown,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,Overall,School phase*type,Unknown,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Academies,250,225,210,194,90,84,77.6
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Academies,267,244,227,z,91.4,85,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Academies,268,239,z,z,89.2,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Free schools,51,43,39,37,84.3,76.5,72.5
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Free schools,54,50,43,z,92.6,79.6,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Free schools,65,63,z,z,96.9,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Local authority maintained schools,39,36,31,30,92.3,79.5,76.9
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Local authority maintained schools,40,38,35,z,95,87.5,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Local authority maintained schools,36,34,z,z,94.4,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Other types,8,5,c,c,u,c,c
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Other types,7,7,6,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Other types,4,4,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Special schools,379,354,325,308,93.4,85.8,81.3
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Special schools,413,379,340,z,91.8,82.3,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Other - Special schools,343,314,z,z,91.5,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Academies,4031,3545,3250,3044,87.9,80.6,75.5
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Academies,4456,3957,3627,z,88.8,81.4,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Academies,4107,3677,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Free schools,233,211,190,175,90.6,81.5,75.1
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Free schools,208,195,177,z,93.8,85.1,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Free schools,234,213,z,z,91,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Local authority maintained schools,4806,4323,3931,3650,90,81.8,75.9
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Local authority maintained schools,4980,4468,4052,z,89.7,81.4,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Primary - Local authority maintained schools,4100,3683,z,z,89.8,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Academies,8116,6994,6269,5799,86.2,77.2,71.5
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Academies,7334,6467,5862,z,88.2,79.9,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Academies,6161,5508,z,z,89.4,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Free schools,794,680,604,547,85.6,76.1,68.9
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Free schools,776,693,595,z,89.3,76.7,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Free schools,639,574,z,z,89.8,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Local authority maintained schools,1980,1728,1596,1457,87.3,80.6,73.6
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Local authority maintained schools,1685,1495,1349,z,88.7,80.1,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Secondary - Local authority maintained schools,1272,1141,z,z,89.7,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Unknown,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Unknown,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,Provider-led,School phase*type,Unknown,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Academies,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Academies,8,8,8,z,u,u,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Academies,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Free schools,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Free schools,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Free schools,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Local authority maintained schools,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Local authority maintained schools,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Local authority maintained schools,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Other types,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Other types,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Other types,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Special schools,17,17,13,13,u,u,u
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Special schools,19,16,16,z,u,u,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Other - Special schools,6,6,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Academies,133,120,103,98,90.2,77.4,73.7
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Academies,147,131,113,z,89.1,76.9,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Academies,117,105,z,z,89.7,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Free schools,8,7,4,6,u,u,u
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Free schools,17,14,14,z,u,u,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Free schools,12,12,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Local authority maintained schools,162,133,127,115,82.1,78.4,71
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Local authority maintained schools,162,140,124,z,86.4,76.5,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Primary - Local authority maintained schools,127,121,z,z,95.3,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Academies,479,422,362,318,88.1,75.6,66.4
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Academies,413,350,321,z,84.7,77.7,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Academies,385,348,z,z,90.4,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Free schools,38,33,28,26,86.8,73.7,68.4
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Free schools,41,33,30,z,80.5,73.2,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Free schools,28,27,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Local authority maintained schools,198,166,149,134,83.8,75.3,67.7
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Local authority maintained schools,199,181,147,z,91,73.9,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Secondary - Local authority maintained schools,122,107,z,z,87.7,z,z
+202122,Academic year,National,England,E92000001,,,School-led,School phase*type,Unknown,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,School phase*type,Unknown,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,School phase*type,Unknown,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Age group,25 to 29,6521,5684,5082,4624,87.2,77.9,70.9
+202223,Academic year,National,England,E92000001,,,Overall,Age group,25 to 29,6358,5607,5040,z,88.2,79.3,z
+202324,Academic year,National,England,E92000001,,,Overall,Age group,25 to 29,5065,4501,z,z,88.9,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Age group,30 to 39,3521,3036,2802,2590,86.2,79.6,73.6
+202223,Academic year,National,England,E92000001,,,Overall,Age group,30 to 39,3481,3066,2811,z,88.1,80.8,z
+202324,Academic year,National,England,E92000001,,,Overall,Age group,30 to 39,2877,2577,z,z,89.6,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Age group,40 to 49,1609,1397,1311,1253,86.8,81.5,77.9
+202223,Academic year,National,England,E92000001,,,Overall,Age group,40 to 49,1629,1451,1342,z,89.1,82.4,z
+202324,Academic year,National,England,E92000001,,,Overall,Age group,40 to 49,1517,1356,z,z,89.4,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Age group,50 to 59,453,377,343,315,83.2,75.7,69.5
+202223,Academic year,National,England,E92000001,,,Overall,Age group,50 to 59,472,403,372,z,85.4,78.8,z
+202324,Academic year,National,England,E92000001,,,Overall,Age group,50 to 59,399,348,z,z,87.2,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Age group,60 and over,13,9,6,6,u,u,u
+202223,Academic year,National,England,E92000001,,,Overall,Age group,60 and over,23,16,11,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Overall,Age group,60 and over,18,12,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Age group,Under 25,9608,8542,7693,7169,88.9,80.1,74.6
+202223,Academic year,National,England,E92000001,,,Overall,Age group,Under 25,9266,8325,7513,z,89.8,81.1,z
+202324,Academic year,National,England,E92000001,,,Overall,Age group,Under 25,8155,7386,z,z,90.6,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Age group,Unknown,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,Overall,Age group,Unknown,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,Overall,Age group,Unknown,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Age group,25 to 29,6194,5397,4838,4404,87.1,78.1,71.1
+202223,Academic year,National,England,E92000001,,,Provider-led,Age group,25 to 29,6033,5324,4792,z,88.2,79.4,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Age group,25 to 29,4835,4296,z,z,88.9,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Age group,30 to 39,3373,2916,2700,2499,86.5,80,74.1
+202223,Academic year,National,England,E92000001,,,Provider-led,Age group,30 to 39,3321,2927,2690,z,88.1,81,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Age group,30 to 39,2759,2469,z,z,89.5,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Age group,40 to 49,1531,1330,1247,1190,86.9,81.5,77.7
+202223,Academic year,National,England,E92000001,,,Provider-led,Age group,40 to 49,1569,1400,1295,z,89.2,82.5,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Age group,40 to 49,1459,1305,z,z,89.4,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Age group,50 to 59,427,356,324,297,83.4,75.9,69.6
+202223,Academic year,National,England,E92000001,,,Provider-led,Age group,50 to 59,451,384,356,z,85.1,78.9,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Age group,50 to 59,384,335,z,z,87.2,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Age group,60 and over,13,9,6,6,u,u,u
+202223,Academic year,National,England,E92000001,,,Provider-led,Age group,60 and over,23,16,11,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Age group,60 and over,18,12,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Age group,Under 25,9148,8135,7332,6847,88.9,80.1,74.8
+202223,Academic year,National,England,E92000001,,,Provider-led,Age group,Under 25,8823,7942,7169,z,90,81.3,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Age group,Under 25,7774,7033,z,z,90.5,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Age group,Unknown,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,Provider-led,Age group,Unknown,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Age group,Unknown,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Age group,25 to 29,327,287,244,220,87.8,74.6,67.3
+202223,Academic year,National,England,E92000001,,,School-led,Age group,25 to 29,325,283,248,z,87.1,76.3,z
+202324,Academic year,National,England,E92000001,,,School-led,Age group,25 to 29,230,205,z,z,89.1,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Age group,30 to 39,148,120,102,91,81.1,68.9,61.5
+202223,Academic year,National,England,E92000001,,,School-led,Age group,30 to 39,160,139,121,z,86.9,75.6,z
+202324,Academic year,National,England,E92000001,,,School-led,Age group,30 to 39,118,108,z,z,91.5,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Age group,40 to 49,78,67,64,63,85.9,82.1,80.8
+202223,Academic year,National,England,E92000001,,,School-led,Age group,40 to 49,60,51,47,z,85,78.3,z
+202324,Academic year,National,England,E92000001,,,School-led,Age group,40 to 49,58,51,z,z,87.9,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Age group,50 to 59,26,21,19,18,u,u,u
+202223,Academic year,National,England,E92000001,,,School-led,Age group,50 to 59,21,19,16,z,u,u,z
+202324,Academic year,National,England,E92000001,,,School-led,Age group,50 to 59,15,13,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Age group,60 and over,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,Age group,60 and over,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,Age group,60 and over,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Age group,Under 25,460,407,361,322,88.5,78.5,70
+202223,Academic year,National,England,E92000001,,,School-led,Age group,Under 25,443,383,344,z,86.5,77.7,z
+202324,Academic year,National,England,E92000001,,,School-led,Age group,Under 25,381,353,z,z,92.7,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Age group,Unknown,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,Age group,Unknown,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,Age group,Unknown,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Gender,Female,16172,14291,13001,12031,88.4,80.4,74.4
+202223,Academic year,National,England,E92000001,,,Overall,Gender,Female,15902,14187,12901,z,89.2,81.1,z
+202324,Academic year,National,England,E92000001,,,Overall,Gender,Female,13665,12332,z,z,90.2,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Gender,Male,5504,4712,4199,3892,85.6,76.3,70.7
+202223,Academic year,National,England,E92000001,,,Overall,Gender,Male,5305,4661,4174,z,87.9,78.7,z
+202324,Academic year,National,England,E92000001,,,Overall,Gender,Male,4320,3805,z,z,88.1,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Gender,Unknown,50,43,38,35,86,76,70
+202223,Academic year,National,England,E92000001,,,Overall,Gender,Unknown,22,20,14,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Overall,Gender,Unknown,46,43,z,z,93.5,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Gender,Female,15408,13626,12409,11486,88.4,80.5,74.5
+202223,Academic year,National,England,E92000001,,,Provider-led,Gender,Female,15165,13539,12325,z,89.3,81.3,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Gender,Female,13066,11789,z,z,90.2,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Gender,Male,5230,4475,4001,3723,85.6,76.5,71.2
+202223,Academic year,National,England,E92000001,,,Provider-led,Gender,Male,5036,4436,3975,z,88.1,78.9,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Gender,Male,4118,3619,z,z,87.9,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Gender,Unknown,49,43,38,35,87.8,77.6,71.4
+202223,Academic year,National,England,E92000001,,,Provider-led,Gender,Unknown,19,18,13,z,u,u,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Gender,Unknown,45,42,z,z,93.3,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Gender,Female,764,665,592,545,87,77.5,71.3
+202223,Academic year,National,England,E92000001,,,School-led,Gender,Female,737,648,576,z,87.9,78.2,z
+202324,Academic year,National,England,E92000001,,,School-led,Gender,Female,599,543,z,z,90.7,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Gender,Male,274,237,198,169,86.5,72.3,61.7
+202223,Academic year,National,England,E92000001,,,School-led,Gender,Male,269,225,199,z,83.6,74,z
+202324,Academic year,National,England,E92000001,,,School-led,Gender,Male,202,186,z,z,92.1,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Gender,Unknown,c,c,c,c,c,c,c
+202223,Academic year,National,England,E92000001,,,School-led,Gender,Unknown,c,c,c,z,c,c,z
+202324,Academic year,National,England,E92000001,,,School-led,Gender,Unknown,c,c,z,z,c,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Ethnicity,Any Other ethnic group,174,146,136,133,83.9,78.2,76.4
+202223,Academic year,National,England,E92000001,,,Overall,Ethnicity,Any Other ethnic group,235,201,184,z,85.5,78.3,z
+202324,Academic year,National,England,E92000001,,,Overall,Ethnicity,Any Other ethnic group,217,189,z,z,87.1,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Ethnicity,Any other Mixed background,464,401,347,320,86.4,74.8,69
+202223,Academic year,National,England,E92000001,,,Overall,Ethnicity,Any other Mixed background,487,416,368,z,85.4,75.6,z
+202324,Academic year,National,England,E92000001,,,Overall,Ethnicity,Any other Mixed background,403,366,z,z,90.8,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Ethnicity,Asian or Asian British,1393,1201,1054,956,86.2,75.7,68.6
+202223,Academic year,National,England,E92000001,,,Overall,Ethnicity,Asian or Asian British,1511,1295,1189,z,85.7,78.7,z
+202324,Academic year,National,England,E92000001,,,Overall,Ethnicity,Asian or Asian British,1422,1238,z,z,87.1,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Ethnicity,Black or Black British,642,548,475,426,85.4,74,66.4
+202223,Academic year,National,England,E92000001,,,Overall,Ethnicity,Black or Black British,605,536,473,z,88.6,78.2,z
+202324,Academic year,National,England,E92000001,,,Overall,Ethnicity,Black or Black British,581,515,z,z,88.6,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Ethnicity,Unknown,2801,2388,2211,1997,85.3,78.9,71.3
+202223,Academic year,National,England,E92000001,,,Overall,Ethnicity,Unknown,3092,2728,2423,z,88.2,78.4,z
+202324,Academic year,National,England,E92000001,,,Overall,Ethnicity,Unknown,3093,2760,z,z,89.2,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Ethnicity,White,16252,14362,13015,12126,88.4,80.1,74.6
+202223,Academic year,National,England,E92000001,,,Overall,Ethnicity,White,15299,13692,12452,z,89.5,81.4,z
+202324,Academic year,National,England,E92000001,,,Overall,Ethnicity,White,12315,11112,z,z,90.2,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Any Other ethnic group,168,141,132,131,83.9,78.6,78
+202223,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Any Other ethnic group,216,185,171,z,85.6,79.2,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Any Other ethnic group,205,180,z,z,87.8,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Any other Mixed background,428,370,320,297,86.4,74.8,69.4
+202223,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Any other Mixed background,464,398,351,z,85.8,75.6,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Any other Mixed background,380,344,z,z,90.5,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Asian or Asian British,1282,1110,974,883,86.6,76,68.9
+202223,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Asian or Asian British,1390,1192,1090,z,85.8,78.4,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Asian or Asian British,1294,1122,z,z,86.7,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Black or Black British,596,507,444,399,85.1,74.5,66.9
+202223,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Black or Black British,548,490,429,z,89.4,78.3,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Black or Black British,536,471,z,z,87.9,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Unknown,2676,2284,2119,1912,85.4,79.2,71.4
+202223,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Unknown,2956,2608,2324,z,88.2,78.6,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,Unknown,2961,2647,z,z,89.4,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,White,15537,13732,12459,11622,88.4,80.2,74.8
+202223,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,White,14646,13120,11948,z,89.6,81.6,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Ethnicity,White,11853,10686,z,z,90.2,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Ethnicity,Any Other ethnic group,6,5,4,c,u,u,c
+202223,Academic year,National,England,E92000001,,,School-led,Ethnicity,Any Other ethnic group,19,16,13,z,u,u,z
+202324,Academic year,National,England,E92000001,,,School-led,Ethnicity,Any Other ethnic group,12,9,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Ethnicity,Any other Mixed background,36,31,27,23,86.1,75,63.9
+202223,Academic year,National,England,E92000001,,,School-led,Ethnicity,Any other Mixed background,23,18,17,z,u,u,z
+202324,Academic year,National,England,E92000001,,,School-led,Ethnicity,Any other Mixed background,23,22,z,z,u,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Ethnicity,Asian or Asian British,111,91,80,73,82,72.1,65.8
+202223,Academic year,National,England,E92000001,,,School-led,Ethnicity,Asian or Asian British,121,103,99,z,85.1,81.8,z
+202324,Academic year,National,England,E92000001,,,School-led,Ethnicity,Asian or Asian British,128,116,z,z,90.6,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Ethnicity,Black or Black British,46,41,31,27,89.1,67.4,58.7
+202223,Academic year,National,England,E92000001,,,School-led,Ethnicity,Black or Black British,57,46,44,z,80.7,77.2,z
+202324,Academic year,National,England,E92000001,,,School-led,Ethnicity,Black or Black British,45,44,z,z,97.8,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Ethnicity,Unknown,125,104,92,85,83.2,73.6,68
+202223,Academic year,National,England,E92000001,,,School-led,Ethnicity,Unknown,136,120,99,z,88.2,72.8,z
+202324,Academic year,National,England,E92000001,,,School-led,Ethnicity,Unknown,132,113,z,z,85.6,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Ethnicity,White,715,630,556,504,88.1,77.8,70.5
+202223,Academic year,National,England,E92000001,,,School-led,Ethnicity,White,653,572,504,z,87.6,77.2,z
+202324,Academic year,National,England,E92000001,,,School-led,Ethnicity,White,462,426,z,z,92.2,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Working pattern,Full time,20728,18237,16477,15240,88,79.5,73.5
+202223,Academic year,National,England,E92000001,,,Overall,Working pattern,Full time,20261,18076,16382,z,89.2,80.9,z
+202324,Academic year,National,England,E92000001,,,Overall,Working pattern,Full time,17249,15529,z,z,90,z,z
+202122,Academic year,National,England,E92000001,,,Overall,Working pattern,Part time,998,809,761,718,81.1,76.3,71.9
+202223,Academic year,National,England,E92000001,,,Overall,Working pattern,Part time,968,792,707,z,81.8,73,z
+202324,Academic year,National,England,E92000001,,,Overall,Working pattern,Part time,782,651,z,z,83.2,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Working pattern,Full time,19721,17361,15709,14547,88,79.7,73.8
+202223,Academic year,National,England,E92000001,,,Provider-led,Working pattern,Full time,19283,17227,15627,z,89.3,81,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Working pattern,Full time,16485,14829,z,z,90,z,z
+202122,Academic year,National,England,E92000001,,,Provider-led,Working pattern,Part time,966,783,739,697,81.1,76.5,72.2
+202223,Academic year,National,England,E92000001,,,Provider-led,Working pattern,Part time,937,766,686,z,81.8,73.2,z
+202324,Academic year,National,England,E92000001,,,Provider-led,Working pattern,Part time,744,621,z,z,83.5,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Working pattern,Full time,1007,876,768,693,87,76.3,68.8
+202223,Academic year,National,England,E92000001,,,School-led,Working pattern,Full time,978,849,755,z,86.8,77.2,z
+202324,Academic year,National,England,E92000001,,,School-led,Working pattern,Full time,764,700,z,z,91.6,z,z
+202122,Academic year,National,England,E92000001,,,School-led,Working pattern,Part time,32,26,22,21,81.2,68.8,65.6
+202223,Academic year,National,England,E92000001,,,School-led,Working pattern,Part time,31,26,21,z,83.9,67.7,z
+202324,Academic year,National,England,E92000001,,,School-led,Working pattern,Part time,38,30,z,z,78.9,z,z
+202122,Academic year,Regional,England,E92000001,East Midlands,E12000004,Overall,Overall,Overall,1680,1499,1370,1284,89.2,81.5,76.4
+202223,Academic year,Regional,England,E92000001,East Midlands,E12000004,Overall,Overall,Overall,1770,1581,1470,z,89.3,83.1,z
+202324,Academic year,Regional,England,E92000001,East Midlands,E12000004,Overall,Overall,Overall,1429,1279,z,z,89.5,z,z
+202122,Academic year,Regional,England,E92000001,East of England,E12000006,Overall,Overall,Overall,2504,2270,2066,1921,90.7,82.5,76.7
+202223,Academic year,Regional,England,E92000001,East of England,E12000006,Overall,Overall,Overall,2420,2205,2027,z,91.1,83.8,z
+202324,Academic year,Regional,England,E92000001,East of England,E12000006,Overall,Overall,Overall,2017,1869,z,z,92.7,z,z
+202122,Academic year,Regional,England,E92000001,London,E12000007,Overall,Overall,Overall,4328,3786,3245,2908,87.5,75,67.2
+202223,Academic year,Regional,England,E92000001,London,E12000007,Overall,Overall,Overall,4128,3705,3235,z,89.8,78.4,z
+202324,Academic year,Regional,England,E92000001,London,E12000007,Overall,Overall,Overall,3507,3158,z,z,90,z,z
+202122,Academic year,Regional,England,E92000001,North East,E12000001,Overall,Overall,Overall,776,663,603,586,85.4,77.7,75.5
+202223,Academic year,Regional,England,E92000001,North East,E12000001,Overall,Overall,Overall,804,705,649,z,87.7,80.7,z
+202324,Academic year,Regional,England,E92000001,North East,E12000001,Overall,Overall,Overall,720,627,z,z,87.1,z,z
+202122,Academic year,Regional,England,E92000001,North West,E12000002,Overall,Overall,Overall,2443,2056,1931,1808,84.2,79,74
+202223,Academic year,Regional,England,E92000001,North West,E12000002,Overall,Overall,Overall,2434,2111,1908,z,86.7,78.4,z
+202324,Academic year,Regional,England,E92000001,North West,E12000002,Overall,Overall,Overall,2159,1873,z,z,86.8,z,z
+202122,Academic year,Regional,England,E92000001,South East,E12000008,Overall,Overall,Overall,3746,3362,3057,2778,89.7,81.6,74.2
+202223,Academic year,Regional,England,E92000001,South East,E12000008,Overall,Overall,Overall,3641,3266,2934,z,89.7,80.6,z
+202324,Academic year,Regional,England,E92000001,South East,E12000008,Overall,Overall,Overall,3033,2771,z,z,91.4,z,z
+202122,Academic year,Regional,England,E92000001,South West,E12000009,Overall,Overall,Overall,1852,1607,1448,1340,86.8,78.2,72.4
+202223,Academic year,Regional,England,E92000001,South West,E12000009,Overall,Overall,Overall,1883,1671,1504,z,88.7,79.9,z
+202324,Academic year,Regional,England,E92000001,South West,E12000009,Overall,Overall,Overall,1513,1353,z,z,89.4,z,z
+202122,Academic year,Regional,England,E92000001,West Midlands,E12000005,Overall,Overall,Overall,2310,1983,1844,1748,85.8,79.8,75.7
+202223,Academic year,Regional,England,E92000001,West Midlands,E12000005,Overall,Overall,Overall,2190,1921,1813,z,87.7,82.8,z
+202324,Academic year,Regional,England,E92000001,West Midlands,E12000005,Overall,Overall,Overall,1984,1759,z,z,88.7,z,z
+202122,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,Overall,Overall,Overall,2087,1820,1674,1585,87.2,80.2,75.9
+202223,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,Overall,Overall,Overall,1959,1703,1549,z,86.9,79.1,z
+202324,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,Overall,Overall,Overall,1669,1491,z,z,89.3,z,z
+202122,Academic year,Regional,England,E92000001,East Midlands,E12000004,Provider-led,Overall,Overall,1640,1461,1337,1251,89.1,81.5,76.3
+202223,Academic year,Regional,England,E92000001,East Midlands,E12000004,Provider-led,Overall,Overall,1735,1548,1439,z,89.2,82.9,z
+202324,Academic year,Regional,England,E92000001,East Midlands,E12000004,Provider-led,Overall,Overall,1414,1265,z,z,89.5,z,z
+202122,Academic year,Regional,England,E92000001,East of England,E12000006,Provider-led,Overall,Overall,2417,2191,2000,1861,90.6,82.7,77
+202223,Academic year,Regional,England,E92000001,East of England,E12000006,Provider-led,Overall,Overall,2346,2141,1967,z,91.3,83.8,z
+202324,Academic year,Regional,England,E92000001,East of England,E12000006,Provider-led,Overall,Overall,1938,1796,z,z,92.7,z,z
+202122,Academic year,Regional,England,E92000001,London,E12000007,Provider-led,Overall,Overall,3905,3418,2932,2639,87.5,75.1,67.6
+202223,Academic year,Regional,England,E92000001,London,E12000007,Provider-led,Overall,Overall,3710,3324,2911,z,89.6,78.5,z
+202324,Academic year,Regional,England,E92000001,London,E12000007,Provider-led,Overall,Overall,3173,2850,z,z,89.8,z,z
+202122,Academic year,Regional,England,E92000001,North East,E12000001,Provider-led,Overall,Overall,750,639,581,565,85.2,77.5,75.3
+202223,Academic year,Regional,England,E92000001,North East,E12000001,Provider-led,Overall,Overall,786,689,635,z,87.7,80.8,z
+202324,Academic year,Regional,England,E92000001,North East,E12000001,Provider-led,Overall,Overall,712,621,z,z,87.2,z,z
+202122,Academic year,Regional,England,E92000001,North West,E12000002,Provider-led,Overall,Overall,2351,1982,1865,1742,84.3,79.3,74.1
+202223,Academic year,Regional,England,E92000001,North West,E12000002,Provider-led,Overall,Overall,2327,2027,1835,z,87.1,78.9,z
+202324,Academic year,Regional,England,E92000001,North West,E12000002,Provider-led,Overall,Overall,2065,1794,z,z,86.9,z,z
+202122,Academic year,Regional,England,E92000001,South East,E12000008,Provider-led,Overall,Overall,3594,3227,2937,2667,89.8,81.7,74.2
+202223,Academic year,Regional,England,E92000001,South East,E12000008,Provider-led,Overall,Overall,3486,3139,2814,z,90,80.7,z
+202324,Academic year,Regional,England,E92000001,South East,E12000008,Provider-led,Overall,Overall,2911,2657,z,z,91.3,z,z
+202122,Academic year,Regional,England,E92000001,South West,E12000009,Provider-led,Overall,Overall,1771,1539,1387,1288,86.9,78.3,72.7
+202223,Academic year,Regional,England,E92000001,South West,E12000009,Provider-led,Overall,Overall,1811,1608,1452,z,88.8,80.2,z
+202324,Academic year,Regional,England,E92000001,South West,E12000009,Provider-led,Overall,Overall,1475,1319,z,z,89.4,z,z
+202122,Academic year,Regional,England,E92000001,West Midlands,E12000005,Provider-led,Overall,Overall,2228,1914,1777,1688,85.9,79.8,75.8
+202223,Academic year,Regional,England,E92000001,West Midlands,E12000005,Provider-led,Overall,Overall,2104,1852,1748,z,88,83.1,z
+202324,Academic year,Regional,England,E92000001,West Midlands,E12000005,Provider-led,Overall,Overall,1894,1676,z,z,88.5,z,z
+202122,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,Provider-led,Overall,Overall,2031,1773,1632,1543,87.3,80.4,76
+202223,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,Provider-led,Overall,Overall,1915,1665,1512,z,86.9,79,z
+202324,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,Provider-led,Overall,Overall,1647,1472,z,z,89.4,z,z
+202122,Academic year,Regional,England,E92000001,East Midlands,E12000004,School-led,Overall,Overall,40,38,33,33,95,82.5,82.5
+202223,Academic year,Regional,England,E92000001,East Midlands,E12000004,School-led,Overall,Overall,35,33,31,z,94.3,88.6,z
+202324,Academic year,Regional,England,E92000001,East Midlands,E12000004,School-led,Overall,Overall,15,14,z,z,u,z,z
+202122,Academic year,Regional,England,E92000001,East of England,E12000006,School-led,Overall,Overall,87,79,66,60,90.8,75.9,69
+202223,Academic year,Regional,England,E92000001,East of England,E12000006,School-led,Overall,Overall,74,64,60,z,86.5,81.1,z
+202324,Academic year,Regional,England,E92000001,East of England,E12000006,School-led,Overall,Overall,79,73,z,z,92.4,z,z
+202122,Academic year,Regional,England,E92000001,London,E12000007,School-led,Overall,Overall,423,368,313,269,87,74,63.6
+202223,Academic year,Regional,England,E92000001,London,E12000007,School-led,Overall,Overall,418,381,324,z,91.1,77.5,z
+202324,Academic year,Regional,England,E92000001,London,E12000007,School-led,Overall,Overall,334,308,z,z,92.2,z,z
+202122,Academic year,Regional,England,E92000001,North East,E12000001,School-led,Overall,Overall,26,24,22,21,u,u,u
+202223,Academic year,Regional,England,E92000001,North East,E12000001,School-led,Overall,Overall,18,16,14,z,u,u,z
+202324,Academic year,Regional,England,E92000001,North East,E12000001,School-led,Overall,Overall,8,6,z,z,u,z,z
+202122,Academic year,Regional,England,E92000001,North West,E12000002,School-led,Overall,Overall,92,74,66,66,80.4,71.7,71.7
+202223,Academic year,Regional,England,E92000001,North West,E12000002,School-led,Overall,Overall,107,84,73,z,78.5,68.2,z
+202324,Academic year,Regional,England,E92000001,North West,E12000002,School-led,Overall,Overall,94,79,z,z,84,z,z
+202122,Academic year,Regional,England,E92000001,South East,E12000008,School-led,Overall,Overall,152,135,120,111,88.8,78.9,73
+202223,Academic year,Regional,England,E92000001,South East,E12000008,School-led,Overall,Overall,155,127,120,z,81.9,77.4,z
+202324,Academic year,Regional,England,E92000001,South East,E12000008,School-led,Overall,Overall,122,114,z,z,93.4,z,z
+202122,Academic year,Regional,England,E92000001,South West,E12000009,School-led,Overall,Overall,81,68,61,52,84,75.3,64.2
+202223,Academic year,Regional,England,E92000001,South West,E12000009,School-led,Overall,Overall,72,63,52,z,87.5,72.2,z
+202324,Academic year,Regional,England,E92000001,South West,E12000009,School-led,Overall,Overall,38,34,z,z,89.5,z,z
+202122,Academic year,Regional,England,E92000001,West Midlands,E12000005,School-led,Overall,Overall,82,69,67,60,84.1,81.7,73.2
+202223,Academic year,Regional,England,E92000001,West Midlands,E12000005,School-led,Overall,Overall,86,69,65,z,80.2,75.6,z
+202324,Academic year,Regional,England,E92000001,West Midlands,E12000005,School-led,Overall,Overall,90,83,z,z,92.2,z,z
+202122,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,School-led,Overall,Overall,56,47,42,42,83.9,75,75
+202223,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,School-led,Overall,Overall,44,38,37,z,86.4,84.1,z
+202324,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,School-led,Overall,Overall,22,19,z,z,u,z,z

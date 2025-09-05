@@ -1,0 +1,777 @@
+time_period,time_identifier,geographic_level,country_name,country_code,region_name,region_code,la_name,old_la_code,new_la_code,breakdown,group_name,total_mentors_trained_count_provider_led,breakdown_percent_mentor
+202122,Academic year,National,England,E92000001,,,,,,Overall,Overall,25888,100
+202223,Academic year,National,England,E92000001,,,,,,Overall,Overall,24714,100
+202324,Academic year,National,England,E92000001,,,,,,Overall,Overall,19133,100
+202425,Academic year,National,England,E92000001,,,,,,Overall,Overall,15593,100
+202122,Academic year,National,England,E92000001,,,,,,Age group,25 to 29,4236,17.1
+202223,Academic year,National,England,E92000001,,,,,,Age group,25 to 29,3655,15.5
+202324,Academic year,National,England,E92000001,,,,,,Age group,25 to 29,2732,15
+202425,Academic year,National,England,E92000001,,,,,,Age group,25 to 29,2229,15
+202122,Academic year,National,England,E92000001,,,,,,Age group,30 to 39,10257,41.3
+202223,Academic year,National,England,E92000001,,,,,,Age group,30 to 39,9842,41.7
+202324,Academic year,National,England,E92000001,,,,,,Age group,30 to 39,7526,41.3
+202425,Academic year,National,England,E92000001,,,,,,Age group,30 to 39,6035,40.6
+202122,Academic year,National,England,E92000001,,,,,,Age group,40 to 49,6809,27.4
+202223,Academic year,National,England,E92000001,,,,,,Age group,40 to 49,6651,28.2
+202324,Academic year,National,England,E92000001,,,,,,Age group,40 to 49,5224,28.6
+202425,Academic year,National,England,E92000001,,,,,,Age group,40 to 49,4324,29.1
+202122,Academic year,National,England,E92000001,,,,,,Age group,50 to 59,3000,12.1
+202223,Academic year,National,England,E92000001,,,,,,Age group,50 to 59,3039,12.9
+202324,Academic year,National,England,E92000001,,,,,,Age group,50 to 59,2416,13.2
+202425,Academic year,National,England,E92000001,,,,,,Age group,50 to 59,1997,13.4
+202122,Academic year,National,England,E92000001,,,,,,Age group,60 and over,248,1
+202223,Academic year,National,England,E92000001,,,,,,Age group,60 and over,239,1
+202324,Academic year,National,England,E92000001,,,,,,Age group,60 and over,198,1.1
+202425,Academic year,National,England,E92000001,,,,,,Age group,60 and over,181,1.2
+202122,Academic year,National,England,E92000001,,,,,,Age group,Under 25,274,1.1
+202223,Academic year,National,England,E92000001,,,,,,Age group,Under 25,156,0.7
+202324,Academic year,National,England,E92000001,,,,,,Age group,Under 25,138,0.8
+202425,Academic year,National,England,E92000001,,,,,,Age group,Under 25,106,0.7
+202122,Academic year,National,England,E92000001,,,,,,Age group,Unknown,1064,z
+202223,Academic year,National,England,E92000001,,,,,,Age group,Unknown,1132,z
+202324,Academic year,National,England,E92000001,,,,,,Age group,Unknown,899,z
+202425,Academic year,National,England,E92000001,,,,,,Age group,Unknown,721,z
+202122,Academic year,National,England,E92000001,,,,,,Gender,Female,18728,75.6
+202223,Academic year,National,England,E92000001,,,,,,Gender,Female,17757,75.3
+202324,Academic year,National,England,E92000001,,,,,,Gender,Female,13745,75.4
+202425,Academic year,National,England,E92000001,,,,,,Gender,Female,11215,75.4
+202122,Academic year,National,England,E92000001,,,,,,Gender,Male,6048,24.4
+202223,Academic year,National,England,E92000001,,,,,,Gender,Male,5814,24.7
+202324,Academic year,National,England,E92000001,,,,,,Gender,Male,4475,24.6
+202425,Academic year,National,England,E92000001,,,,,,Gender,Male,3650,24.6
+202122,Academic year,National,England,E92000001,,,,,,Gender,Unknown,1112,z
+202223,Academic year,National,England,E92000001,,,,,,Gender,Unknown,1143,z
+202324,Academic year,National,England,E92000001,,,,,,Gender,Unknown,913,z
+202425,Academic year,National,England,E92000001,,,,,,Gender,Unknown,728,z
+202122,Academic year,National,England,E92000001,,,,,,Ethnicity,Any Other ethnic group,146,0.6
+202223,Academic year,National,England,E92000001,,,,,,Ethnicity,Any Other ethnic group,156,0.7
+202324,Academic year,National,England,E92000001,,,,,,Ethnicity,Any Other ethnic group,127,0.8
+202425,Academic year,National,England,E92000001,,,,,,Ethnicity,Any Other ethnic group,112,0.9
+202122,Academic year,National,England,E92000001,,,,,,Ethnicity,Any other Mixed background,366,1.6
+202223,Academic year,National,England,E92000001,,,,,,Ethnicity,Any other Mixed background,355,1.6
+202324,Academic year,National,England,E92000001,,,,,,Ethnicity,Any other Mixed background,282,1.7
+202425,Academic year,National,England,E92000001,,,,,,Ethnicity,Any other Mixed background,257,2
+202122,Academic year,National,England,E92000001,,,,,,Ethnicity,Asian or Asian British,1183,5.2
+202223,Academic year,National,England,E92000001,,,,,,Ethnicity,Asian or Asian British,1162,5.4
+202324,Academic year,National,England,E92000001,,,,,,Ethnicity,Asian or Asian British,917,5.6
+202425,Academic year,National,England,E92000001,,,,,,Ethnicity,Asian or Asian British,766,5.9
+202122,Academic year,National,England,E92000001,,,,,,Ethnicity,Black or Black British,501,2.2
+202223,Academic year,National,England,E92000001,,,,,,Ethnicity,Black or Black British,518,2.4
+202324,Academic year,National,England,E92000001,,,,,,Ethnicity,Black or Black British,403,2.5
+202425,Academic year,National,England,E92000001,,,,,,Ethnicity,Black or Black British,366,2.8
+202122,Academic year,National,England,E92000001,,,,,,Ethnicity,Unknown,3244,z
+202223,Academic year,National,England,E92000001,,,,,,Ethnicity,Unknown,3164,z
+202324,Academic year,National,England,E92000001,,,,,,Ethnicity,Unknown,2701,z
+202425,Academic year,National,England,E92000001,,,,,,Ethnicity,Unknown,2557,z
+202122,Academic year,National,England,E92000001,,,,,,Ethnicity,White,20448,90.3
+202223,Academic year,National,England,E92000001,,,,,,Ethnicity,White,19359,89.8
+202324,Academic year,National,England,E92000001,,,,,,Ethnicity,White,14703,89.5
+202425,Academic year,National,England,E92000001,,,,,,Ethnicity,White,11535,88.5
+202122,Academic year,National,England,E92000001,,,,,,Working pattern,Full time,21031,84.7
+202223,Academic year,National,England,E92000001,,,,,,Working pattern,Full time,19625,83.2
+202324,Academic year,National,England,E92000001,,,,,,Working pattern,Full time,14976,82.1
+202425,Academic year,National,England,E92000001,,,,,,Working pattern,Full time,12157,81.7
+202122,Academic year,National,England,E92000001,,,,,,Working pattern,Part time,3793,15.3
+202223,Academic year,National,England,E92000001,,,,,,Working pattern,Part time,3957,16.8
+202324,Academic year,National,England,E92000001,,,,,,Working pattern,Part time,3258,17.9
+202425,Academic year,National,England,E92000001,,,,,,Working pattern,Part time,2715,18.3
+202122,Academic year,National,England,E92000001,,,,,,Working pattern,Unknown,1064,z
+202223,Academic year,National,England,E92000001,,,,,,Working pattern,Unknown,1132,z
+202324,Academic year,National,England,E92000001,,,,,,Working pattern,Unknown,899,z
+202425,Academic year,National,England,E92000001,,,,,,Working pattern,Unknown,721,z
+202122,Academic year,National,England,E92000001,,,,,,Role,Assistant headteacher,2660,10.7
+202223,Academic year,National,England,E92000001,,,,,,Role,Assistant headteacher,2280,9.7
+202324,Academic year,National,England,E92000001,,,,,,Role,Assistant headteacher,1836,10.1
+202425,Academic year,National,England,E92000001,,,,,,Role,Assistant headteacher,1384,9.3
+202122,Academic year,National,England,E92000001,,,,,,Role,Classroom teacher,19954,80.4
+202223,Academic year,National,England,E92000001,,,,,,Role,Classroom teacher,19411,82.3
+202324,Academic year,National,England,E92000001,,,,,,Role,Classroom teacher,14964,82.1
+202425,Academic year,National,England,E92000001,,,,,,Role,Classroom teacher,12436,83.6
+202122,Academic year,National,England,E92000001,,,,,,Role,Deputy headteacher,1678,6.8
+202223,Academic year,National,England,E92000001,,,,,,Role,Deputy headteacher,1410,6
+202324,Academic year,National,England,E92000001,,,,,,Role,Deputy headteacher,1049,5.8
+202425,Academic year,National,England,E92000001,,,,,,Role,Deputy headteacher,754,5.1
+202122,Academic year,National,England,E92000001,,,,,,Role,Headteacher,532,2.1
+202223,Academic year,National,England,E92000001,,,,,,Role,Headteacher,481,2
+202324,Academic year,National,England,E92000001,,,,,,Role,Headteacher,385,2.1
+202425,Academic year,National,England,E92000001,,,,,,Role,Headteacher,298,2
+202122,Academic year,National,England,E92000001,,,,,,Role,Unknown,1064,z
+202223,Academic year,National,England,E92000001,,,,,,Role,Unknown,1132,z
+202324,Academic year,National,England,E92000001,,,,,,Role,Unknown,899,z
+202425,Academic year,National,England,E92000001,,,,,,Role,Unknown,721,z
+202122,Academic year,National,England,E92000001,,,,,,Experience,0 or below,7,low
+202223,Academic year,National,England,E92000001,,,,,,Experience,0 or below,c,c
+202324,Academic year,National,England,E92000001,,,,,,Experience,0 or below,6,low
+202425,Academic year,National,England,E92000001,,,,,,Experience,0 or below,c,c
+202122,Academic year,National,England,E92000001,,,,,,Experience,10 to 19,10028,40.8
+202223,Academic year,National,England,E92000001,,,,,,Experience,10 to 19,9555,41
+202324,Academic year,National,England,E92000001,,,,,,Experience,10 to 19,7300,40.5
+202425,Academic year,National,England,E92000001,,,,,,Experience,10 to 19,5848,39.7
+202122,Academic year,National,England,E92000001,,,,,,Experience,20 to 29,4125,16.8
+202223,Academic year,National,England,E92000001,,,,,,Experience,20 to 29,4220,18.1
+202324,Academic year,National,England,E92000001,,,,,,Experience,20 to 29,3360,18.6
+202425,Academic year,National,England,E92000001,,,,,,Experience,20 to 29,2810,19.1
+202122,Academic year,National,England,E92000001,,,,,,Experience,30 and over,905,3.7
+202223,Academic year,National,England,E92000001,,,,,,Experience,30 and over,898,3.9
+202324,Academic year,National,England,E92000001,,,,,,Experience,30 and over,816,4.5
+202425,Academic year,National,England,E92000001,,,,,,Experience,30 and over,651,4.4
+202122,Academic year,National,England,E92000001,,,,,,Experience,5 to 9,7071,28.7
+202223,Academic year,National,England,E92000001,,,,,,Experience,5 to 9,6653,28.5
+202324,Academic year,National,England,E92000001,,,,,,Experience,5 to 9,5007,27.8
+202425,Academic year,National,England,E92000001,,,,,,Experience,5 to 9,3983,27.1
+202122,Academic year,National,England,E92000001,,,,,,Experience,Under 5,2463,10
+202223,Academic year,National,England,E92000001,,,,,,Experience,Under 5,1986,8.5
+202324,Academic year,National,England,E92000001,,,,,,Experience,Under 5,1544,8.6
+202425,Academic year,National,England,E92000001,,,,,,Experience,Under 5,1422,9.7
+202122,Academic year,National,England,E92000001,,,,,,Experience,Unknown,1289,z
+202223,Academic year,National,England,E92000001,,,,,,Experience,Unknown,1400,z
+202324,Academic year,National,England,E92000001,,,,,,Experience,Unknown,1100,z
+202425,Academic year,National,England,E92000001,,,,,,Experience,Unknown,879,z
+202122,Academic year,Regional,England,E92000001,East Midlands,E12000004,,,,Overall,Overall,2203,8.5
+202223,Academic year,Regional,England,E92000001,East Midlands,E12000004,,,,Overall,Overall,2201,8.9
+202324,Academic year,Regional,England,E92000001,East Midlands,E12000004,,,,Overall,Overall,1726,9
+202425,Academic year,Regional,England,E92000001,East Midlands,E12000004,,,,Overall,Overall,1485,9.5
+202122,Academic year,Regional,England,E92000001,East of England,E12000006,,,,Overall,Overall,2934,11.3
+202223,Academic year,Regional,England,E92000001,East of England,E12000006,,,,Overall,Overall,2757,11.2
+202324,Academic year,Regional,England,E92000001,East of England,E12000006,,,,Overall,Overall,2028,10.6
+202425,Academic year,Regional,England,E92000001,East of England,E12000006,,,,Overall,Overall,1755,11.3
+202122,Academic year,Regional,England,E92000001,London,E12000007,,,,Overall,Overall,4741,18.3
+202223,Academic year,Regional,England,E92000001,London,E12000007,,,,Overall,Overall,4443,18
+202324,Academic year,Regional,England,E92000001,London,E12000007,,,,Overall,Overall,3208,16.8
+202425,Academic year,Regional,England,E92000001,London,E12000007,,,,Overall,Overall,2600,16.7
+202122,Academic year,Regional,England,E92000001,North East,E12000001,,,,Overall,Overall,950,3.7
+202223,Academic year,Regional,England,E92000001,North East,E12000001,,,,Overall,Overall,1029,4.2
+202324,Academic year,Regional,England,E92000001,North East,E12000001,,,,Overall,Overall,890,4.7
+202425,Academic year,Regional,England,E92000001,North East,E12000001,,,,Overall,Overall,632,4.1
+202122,Academic year,Regional,England,E92000001,North West,E12000002,,,,Overall,Overall,3074,11.9
+202223,Academic year,Regional,England,E92000001,North West,E12000002,,,,Overall,Overall,2886,11.7
+202324,Academic year,Regional,England,E92000001,North West,E12000002,,,,Overall,Overall,2471,12.9
+202425,Academic year,Regional,England,E92000001,North West,E12000002,,,,Overall,Overall,2008,12.9
+202122,Academic year,Regional,England,E92000001,South East,E12000008,,,,Overall,Overall,4388,16.9
+202223,Academic year,Regional,England,E92000001,South East,E12000008,,,,Overall,Overall,4187,16.9
+202324,Academic year,Regional,England,E92000001,South East,E12000008,,,,Overall,Overall,3117,16.3
+202425,Academic year,Regional,England,E92000001,South East,E12000008,,,,Overall,Overall,2506,16.1
+202122,Academic year,Regional,England,E92000001,South West,E12000009,,,,Overall,Overall,2139,8.3
+202223,Academic year,Regional,England,E92000001,South West,E12000009,,,,Overall,Overall,2115,8.6
+202324,Academic year,Regional,England,E92000001,South West,E12000009,,,,Overall,Overall,1679,8.8
+202425,Academic year,Regional,England,E92000001,South West,E12000009,,,,Overall,Overall,1458,9.4
+202122,Academic year,Regional,England,E92000001,West Midlands,E12000005,,,,Overall,Overall,2846,11
+202223,Academic year,Regional,England,E92000001,West Midlands,E12000005,,,,Overall,Overall,2561,10.4
+202324,Academic year,Regional,England,E92000001,West Midlands,E12000005,,,,Overall,Overall,2072,10.8
+202425,Academic year,Regional,England,E92000001,West Midlands,E12000005,,,,Overall,Overall,1642,10.5
+202122,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,,,,Overall,Overall,2613,10.1
+202223,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,,,,Overall,Overall,2535,10.3
+202324,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,,,,Overall,Overall,1942,10.2
+202425,Academic year,Regional,England,E92000001,Yorkshire and The Humber,E12000003,,,,Overall,Overall,1507,9.7
+202122,Academic year,Local authority,England,E92000001,,,City of London,201,E09000001,Overall,Overall,c,c
+202223,Academic year,Local authority,England,E92000001,,,City of London,201,E09000001,Overall,Overall,c,c
+202324,Academic year,Local authority,England,E92000001,,,City of London,201,E09000001,Overall,Overall,c,c
+202425,Academic year,Local authority,England,E92000001,,,City of London,201,E09000001,Overall,Overall,c,c
+202122,Academic year,Local authority,England,E92000001,,,Camden,202,E09000007,Overall,Overall,97,0.4
+202223,Academic year,Local authority,England,E92000001,,,Camden,202,E09000007,Overall,Overall,109,0.4
+202324,Academic year,Local authority,England,E92000001,,,Camden,202,E09000007,Overall,Overall,73,0.4
+202425,Academic year,Local authority,England,E92000001,,,Camden,202,E09000007,Overall,Overall,62,0.4
+202122,Academic year,Local authority,England,E92000001,,,Greenwich,203,E09000011,Overall,Overall,159,0.6
+202223,Academic year,Local authority,England,E92000001,,,Greenwich,203,E09000011,Overall,Overall,149,0.6
+202324,Academic year,Local authority,England,E92000001,,,Greenwich,203,E09000011,Overall,Overall,105,0.5
+202425,Academic year,Local authority,England,E92000001,,,Greenwich,203,E09000011,Overall,Overall,104,0.7
+202122,Academic year,Local authority,England,E92000001,,,Hackney,204,E09000012,Overall,Overall,147,0.6
+202223,Academic year,Local authority,England,E92000001,,,Hackney,204,E09000012,Overall,Overall,113,0.5
+202324,Academic year,Local authority,England,E92000001,,,Hackney,204,E09000012,Overall,Overall,97,0.5
+202425,Academic year,Local authority,England,E92000001,,,Hackney,204,E09000012,Overall,Overall,70,0.4
+202122,Academic year,Local authority,England,E92000001,,,Hammersmith and Fulham,205,E09000013,Overall,Overall,111,0.4
+202223,Academic year,Local authority,England,E92000001,,,Hammersmith and Fulham,205,E09000013,Overall,Overall,80,0.3
+202324,Academic year,Local authority,England,E92000001,,,Hammersmith and Fulham,205,E09000013,Overall,Overall,58,0.3
+202425,Academic year,Local authority,England,E92000001,,,Hammersmith and Fulham,205,E09000013,Overall,Overall,49,0.3
+202122,Academic year,Local authority,England,E92000001,,,Islington,206,E09000019,Overall,Overall,79,0.3
+202223,Academic year,Local authority,England,E92000001,,,Islington,206,E09000019,Overall,Overall,106,0.4
+202324,Academic year,Local authority,England,E92000001,,,Islington,206,E09000019,Overall,Overall,74,0.4
+202425,Academic year,Local authority,England,E92000001,,,Islington,206,E09000019,Overall,Overall,50,0.3
+202122,Academic year,Local authority,England,E92000001,,,Kensington and Chelsea,207,E09000020,Overall,Overall,77,0.3
+202223,Academic year,Local authority,England,E92000001,,,Kensington and Chelsea,207,E09000020,Overall,Overall,64,0.3
+202324,Academic year,Local authority,England,E92000001,,,Kensington and Chelsea,207,E09000020,Overall,Overall,37,0.2
+202425,Academic year,Local authority,England,E92000001,,,Kensington and Chelsea,207,E09000020,Overall,Overall,37,0.2
+202122,Academic year,Local authority,England,E92000001,,,Lambeth,208,E09000022,Overall,Overall,127,0.5
+202223,Academic year,Local authority,England,E92000001,,,Lambeth,208,E09000022,Overall,Overall,178,0.7
+202324,Academic year,Local authority,England,E92000001,,,Lambeth,208,E09000022,Overall,Overall,75,0.4
+202425,Academic year,Local authority,England,E92000001,,,Lambeth,208,E09000022,Overall,Overall,71,0.5
+202122,Academic year,Local authority,England,E92000001,,,Lewisham,209,E09000023,Overall,Overall,121,0.5
+202223,Academic year,Local authority,England,E92000001,,,Lewisham,209,E09000023,Overall,Overall,160,0.6
+202324,Academic year,Local authority,England,E92000001,,,Lewisham,209,E09000023,Overall,Overall,88,0.5
+202425,Academic year,Local authority,England,E92000001,,,Lewisham,209,E09000023,Overall,Overall,82,0.5
+202122,Academic year,Local authority,England,E92000001,,,Southwark,210,E09000028,Overall,Overall,208,0.8
+202223,Academic year,Local authority,England,E92000001,,,Southwark,210,E09000028,Overall,Overall,212,0.9
+202324,Academic year,Local authority,England,E92000001,,,Southwark,210,E09000028,Overall,Overall,114,0.6
+202425,Academic year,Local authority,England,E92000001,,,Southwark,210,E09000028,Overall,Overall,87,0.6
+202122,Academic year,Local authority,England,E92000001,,,Tower Hamlets,211,E09000030,Overall,Overall,184,0.7
+202223,Academic year,Local authority,England,E92000001,,,Tower Hamlets,211,E09000030,Overall,Overall,151,0.6
+202324,Academic year,Local authority,England,E92000001,,,Tower Hamlets,211,E09000030,Overall,Overall,141,0.7
+202425,Academic year,Local authority,England,E92000001,,,Tower Hamlets,211,E09000030,Overall,Overall,111,0.7
+202122,Academic year,Local authority,England,E92000001,,,Wandsworth,212,E09000032,Overall,Overall,135,0.5
+202223,Academic year,Local authority,England,E92000001,,,Wandsworth,212,E09000032,Overall,Overall,134,0.5
+202324,Academic year,Local authority,England,E92000001,,,Wandsworth,212,E09000032,Overall,Overall,94,0.5
+202425,Academic year,Local authority,England,E92000001,,,Wandsworth,212,E09000032,Overall,Overall,69,0.4
+202122,Academic year,Local authority,England,E92000001,,,Westminster,213,E09000033,Overall,Overall,130,0.5
+202223,Academic year,Local authority,England,E92000001,,,Westminster,213,E09000033,Overall,Overall,101,0.4
+202324,Academic year,Local authority,England,E92000001,,,Westminster,213,E09000033,Overall,Overall,68,0.4
+202425,Academic year,Local authority,England,E92000001,,,Westminster,213,E09000033,Overall,Overall,59,0.4
+202122,Academic year,Local authority,England,E92000001,,,Barking and Dagenham,301,E09000002,Overall,Overall,126,0.5
+202223,Academic year,Local authority,England,E92000001,,,Barking and Dagenham,301,E09000002,Overall,Overall,136,0.6
+202324,Academic year,Local authority,England,E92000001,,,Barking and Dagenham,301,E09000002,Overall,Overall,125,0.7
+202425,Academic year,Local authority,England,E92000001,,,Barking and Dagenham,301,E09000002,Overall,Overall,81,0.5
+202122,Academic year,Local authority,England,E92000001,,,Barnet,302,E09000003,Overall,Overall,209,0.8
+202223,Academic year,Local authority,England,E92000001,,,Barnet,302,E09000003,Overall,Overall,227,0.9
+202324,Academic year,Local authority,England,E92000001,,,Barnet,302,E09000003,Overall,Overall,188,1
+202425,Academic year,Local authority,England,E92000001,,,Barnet,302,E09000003,Overall,Overall,134,0.9
+202122,Academic year,Local authority,England,E92000001,,,Bexley,303,E09000004,Overall,Overall,154,0.6
+202223,Academic year,Local authority,England,E92000001,,,Bexley,303,E09000004,Overall,Overall,131,0.5
+202324,Academic year,Local authority,England,E92000001,,,Bexley,303,E09000004,Overall,Overall,98,0.5
+202425,Academic year,Local authority,England,E92000001,,,Bexley,303,E09000004,Overall,Overall,100,0.6
+202122,Academic year,Local authority,England,E92000001,,,Brent,304,E09000005,Overall,Overall,194,0.7
+202223,Academic year,Local authority,England,E92000001,,,Brent,304,E09000005,Overall,Overall,174,0.7
+202324,Academic year,Local authority,England,E92000001,,,Brent,304,E09000005,Overall,Overall,118,0.6
+202425,Academic year,Local authority,England,E92000001,,,Brent,304,E09000005,Overall,Overall,114,0.7
+202122,Academic year,Local authority,England,E92000001,,,Bromley,305,E09000006,Overall,Overall,178,0.7
+202223,Academic year,Local authority,England,E92000001,,,Bromley,305,E09000006,Overall,Overall,179,0.7
+202324,Academic year,Local authority,England,E92000001,,,Bromley,305,E09000006,Overall,Overall,135,0.7
+202425,Academic year,Local authority,England,E92000001,,,Bromley,305,E09000006,Overall,Overall,92,0.6
+202122,Academic year,Local authority,England,E92000001,,,Croydon,306,E09000008,Overall,Overall,232,0.9
+202223,Academic year,Local authority,England,E92000001,,,Croydon,306,E09000008,Overall,Overall,149,0.6
+202324,Academic year,Local authority,England,E92000001,,,Croydon,306,E09000008,Overall,Overall,118,0.6
+202425,Academic year,Local authority,England,E92000001,,,Croydon,306,E09000008,Overall,Overall,109,0.7
+202122,Academic year,Local authority,England,E92000001,,,Ealing,307,E09000009,Overall,Overall,173,0.7
+202223,Academic year,Local authority,England,E92000001,,,Ealing,307,E09000009,Overall,Overall,157,0.6
+202324,Academic year,Local authority,England,E92000001,,,Ealing,307,E09000009,Overall,Overall,135,0.7
+202425,Academic year,Local authority,England,E92000001,,,Ealing,307,E09000009,Overall,Overall,90,0.6
+202122,Academic year,Local authority,England,E92000001,,,Enfield,308,E09000010,Overall,Overall,202,0.8
+202223,Academic year,Local authority,England,E92000001,,,Enfield,308,E09000010,Overall,Overall,195,0.8
+202324,Academic year,Local authority,England,E92000001,,,Enfield,308,E09000010,Overall,Overall,143,0.7
+202425,Academic year,Local authority,England,E92000001,,,Enfield,308,E09000010,Overall,Overall,116,0.7
+202122,Academic year,Local authority,England,E92000001,,,Haringey,309,E09000014,Overall,Overall,174,0.7
+202223,Academic year,Local authority,England,E92000001,,,Haringey,309,E09000014,Overall,Overall,136,0.6
+202324,Academic year,Local authority,England,E92000001,,,Haringey,309,E09000014,Overall,Overall,87,0.5
+202425,Academic year,Local authority,England,E92000001,,,Haringey,309,E09000014,Overall,Overall,81,0.5
+202122,Academic year,Local authority,England,E92000001,,,Harrow,310,E09000015,Overall,Overall,150,0.6
+202223,Academic year,Local authority,England,E92000001,,,Harrow,310,E09000015,Overall,Overall,138,0.6
+202324,Academic year,Local authority,England,E92000001,,,Harrow,310,E09000015,Overall,Overall,111,0.6
+202425,Academic year,Local authority,England,E92000001,,,Harrow,310,E09000015,Overall,Overall,73,0.5
+202122,Academic year,Local authority,England,E92000001,,,Havering,311,E09000016,Overall,Overall,154,0.6
+202223,Academic year,Local authority,England,E92000001,,,Havering,311,E09000016,Overall,Overall,142,0.6
+202324,Academic year,Local authority,England,E92000001,,,Havering,311,E09000016,Overall,Overall,93,0.5
+202425,Academic year,Local authority,England,E92000001,,,Havering,311,E09000016,Overall,Overall,87,0.6
+202122,Academic year,Local authority,England,E92000001,,,Hillingdon,312,E09000017,Overall,Overall,176,0.7
+202223,Academic year,Local authority,England,E92000001,,,Hillingdon,312,E09000017,Overall,Overall,132,0.5
+202324,Academic year,Local authority,England,E92000001,,,Hillingdon,312,E09000017,Overall,Overall,109,0.6
+202425,Academic year,Local authority,England,E92000001,,,Hillingdon,312,E09000017,Overall,Overall,70,0.4
+202122,Academic year,Local authority,England,E92000001,,,Hounslow,313,E09000018,Overall,Overall,181,0.7
+202223,Academic year,Local authority,England,E92000001,,,Hounslow,313,E09000018,Overall,Overall,171,0.7
+202324,Academic year,Local authority,England,E92000001,,,Hounslow,313,E09000018,Overall,Overall,111,0.6
+202425,Academic year,Local authority,England,E92000001,,,Hounslow,313,E09000018,Overall,Overall,98,0.6
+202122,Academic year,Local authority,England,E92000001,,,Kingston upon Thames,314,E09000021,Overall,Overall,76,0.3
+202223,Academic year,Local authority,England,E92000001,,,Kingston upon Thames,314,E09000021,Overall,Overall,72,0.3
+202324,Academic year,Local authority,England,E92000001,,,Kingston upon Thames,314,E09000021,Overall,Overall,64,0.3
+202425,Academic year,Local authority,England,E92000001,,,Kingston upon Thames,314,E09000021,Overall,Overall,36,0.2
+202122,Academic year,Local authority,England,E92000001,,,Merton,315,E09000024,Overall,Overall,136,0.5
+202223,Academic year,Local authority,England,E92000001,,,Merton,315,E09000024,Overall,Overall,108,0.4
+202324,Academic year,Local authority,England,E92000001,,,Merton,315,E09000024,Overall,Overall,63,0.3
+202425,Academic year,Local authority,England,E92000001,,,Merton,315,E09000024,Overall,Overall,46,0.3
+202122,Academic year,Local authority,England,E92000001,,,Newham,316,E09000025,Overall,Overall,220,0.8
+202223,Academic year,Local authority,England,E92000001,,,Newham,316,E09000025,Overall,Overall,194,0.8
+202324,Academic year,Local authority,England,E92000001,,,Newham,316,E09000025,Overall,Overall,159,0.8
+202425,Academic year,Local authority,England,E92000001,,,Newham,316,E09000025,Overall,Overall,150,1
+202122,Academic year,Local authority,England,E92000001,,,Redbridge,317,E09000026,Overall,Overall,118,0.5
+202223,Academic year,Local authority,England,E92000001,,,Redbridge,317,E09000026,Overall,Overall,93,0.4
+202324,Academic year,Local authority,England,E92000001,,,Redbridge,317,E09000026,Overall,Overall,77,0.4
+202425,Academic year,Local authority,England,E92000001,,,Redbridge,317,E09000026,Overall,Overall,61,0.4
+202122,Academic year,Local authority,England,E92000001,,,Richmond upon Thames,318,E09000027,Overall,Overall,87,0.3
+202223,Academic year,Local authority,England,E92000001,,,Richmond upon Thames,318,E09000027,Overall,Overall,136,0.6
+202324,Academic year,Local authority,England,E92000001,,,Richmond upon Thames,318,E09000027,Overall,Overall,90,0.5
+202425,Academic year,Local authority,England,E92000001,,,Richmond upon Thames,318,E09000027,Overall,Overall,66,0.4
+202122,Academic year,Local authority,England,E92000001,,,Sutton,319,E09000029,Overall,Overall,81,0.3
+202223,Academic year,Local authority,England,E92000001,,,Sutton,319,E09000029,Overall,Overall,90,0.4
+202324,Academic year,Local authority,England,E92000001,,,Sutton,319,E09000029,Overall,Overall,77,0.4
+202425,Academic year,Local authority,England,E92000001,,,Sutton,319,E09000029,Overall,Overall,65,0.4
+202122,Academic year,Local authority,England,E92000001,,,Waltham Forest,320,E09000031,Overall,Overall,144,0.6
+202223,Academic year,Local authority,England,E92000001,,,Waltham Forest,320,E09000031,Overall,Overall,125,0.5
+202324,Academic year,Local authority,England,E92000001,,,Waltham Forest,320,E09000031,Overall,Overall,83,0.4
+202425,Academic year,Local authority,England,E92000001,,,Waltham Forest,320,E09000031,Overall,Overall,80,0.5
+202122,Academic year,Local authority,England,E92000001,,,Birmingham,330,E08000025,Overall,Overall,715,2.8
+202223,Academic year,Local authority,England,E92000001,,,Birmingham,330,E08000025,Overall,Overall,640,2.6
+202324,Academic year,Local authority,England,E92000001,,,Birmingham,330,E08000025,Overall,Overall,512,2.7
+202425,Academic year,Local authority,England,E92000001,,,Birmingham,330,E08000025,Overall,Overall,386,2.5
+202122,Academic year,Local authority,England,E92000001,,,Coventry,331,E08000026,Overall,Overall,171,0.7
+202223,Academic year,Local authority,England,E92000001,,,Coventry,331,E08000026,Overall,Overall,179,0.7
+202324,Academic year,Local authority,England,E92000001,,,Coventry,331,E08000026,Overall,Overall,141,0.7
+202425,Academic year,Local authority,England,E92000001,,,Coventry,331,E08000026,Overall,Overall,106,0.7
+202122,Academic year,Local authority,England,E92000001,,,Dudley,332,E08000027,Overall,Overall,124,0.5
+202223,Academic year,Local authority,England,E92000001,,,Dudley,332,E08000027,Overall,Overall,123,0.5
+202324,Academic year,Local authority,England,E92000001,,,Dudley,332,E08000027,Overall,Overall,73,0.4
+202425,Academic year,Local authority,England,E92000001,,,Dudley,332,E08000027,Overall,Overall,82,0.5
+202122,Academic year,Local authority,England,E92000001,,,Sandwell,333,E08000028,Overall,Overall,183,0.7
+202223,Academic year,Local authority,England,E92000001,,,Sandwell,333,E08000028,Overall,Overall,143,0.6
+202324,Academic year,Local authority,England,E92000001,,,Sandwell,333,E08000028,Overall,Overall,95,0.5
+202425,Academic year,Local authority,England,E92000001,,,Sandwell,333,E08000028,Overall,Overall,93,0.6
+202122,Academic year,Local authority,England,E92000001,,,Solihull,334,E08000029,Overall,Overall,109,0.4
+202223,Academic year,Local authority,England,E92000001,,,Solihull,334,E08000029,Overall,Overall,129,0.5
+202324,Academic year,Local authority,England,E92000001,,,Solihull,334,E08000029,Overall,Overall,80,0.4
+202425,Academic year,Local authority,England,E92000001,,,Solihull,334,E08000029,Overall,Overall,67,0.4
+202122,Academic year,Local authority,England,E92000001,,,Walsall,335,E08000030,Overall,Overall,172,0.7
+202223,Academic year,Local authority,England,E92000001,,,Walsall,335,E08000030,Overall,Overall,146,0.6
+202324,Academic year,Local authority,England,E92000001,,,Walsall,335,E08000030,Overall,Overall,137,0.7
+202425,Academic year,Local authority,England,E92000001,,,Walsall,335,E08000030,Overall,Overall,103,0.7
+202122,Academic year,Local authority,England,E92000001,,,Wolverhampton,336,E08000031,Overall,Overall,175,0.7
+202223,Academic year,Local authority,England,E92000001,,,Wolverhampton,336,E08000031,Overall,Overall,143,0.6
+202324,Academic year,Local authority,England,E92000001,,,Wolverhampton,336,E08000031,Overall,Overall,122,0.6
+202425,Academic year,Local authority,England,E92000001,,,Wolverhampton,336,E08000031,Overall,Overall,107,0.7
+202122,Academic year,Local authority,England,E92000001,,,Knowsley,340,E08000011,Overall,Overall,52,0.2
+202223,Academic year,Local authority,England,E92000001,,,Knowsley,340,E08000011,Overall,Overall,54,0.2
+202324,Academic year,Local authority,England,E92000001,,,Knowsley,340,E08000011,Overall,Overall,44,0.2
+202425,Academic year,Local authority,England,E92000001,,,Knowsley,340,E08000011,Overall,Overall,36,0.2
+202122,Academic year,Local authority,England,E92000001,,,Liverpool,341,E08000012,Overall,Overall,218,0.8
+202223,Academic year,Local authority,England,E92000001,,,Liverpool,341,E08000012,Overall,Overall,183,0.7
+202324,Academic year,Local authority,England,E92000001,,,Liverpool,341,E08000012,Overall,Overall,195,1
+202425,Academic year,Local authority,England,E92000001,,,Liverpool,341,E08000012,Overall,Overall,158,1
+202122,Academic year,Local authority,England,E92000001,,,St. Helens,342,E08000013,Overall,Overall,74,0.3
+202223,Academic year,Local authority,England,E92000001,,,St. Helens,342,E08000013,Overall,Overall,58,0.2
+202324,Academic year,Local authority,England,E92000001,,,St. Helens,342,E08000013,Overall,Overall,52,0.3
+202425,Academic year,Local authority,England,E92000001,,,St. Helens,342,E08000013,Overall,Overall,40,0.3
+202122,Academic year,Local authority,England,E92000001,,,Sefton,343,E08000014,Overall,Overall,111,0.4
+202223,Academic year,Local authority,England,E92000001,,,Sefton,343,E08000014,Overall,Overall,86,0.3
+202324,Academic year,Local authority,England,E92000001,,,Sefton,343,E08000014,Overall,Overall,70,0.4
+202425,Academic year,Local authority,England,E92000001,,,Sefton,343,E08000014,Overall,Overall,61,0.4
+202122,Academic year,Local authority,England,E92000001,,,Wirral,344,E08000015,Overall,Overall,150,0.6
+202223,Academic year,Local authority,England,E92000001,,,Wirral,344,E08000015,Overall,Overall,101,0.4
+202324,Academic year,Local authority,England,E92000001,,,Wirral,344,E08000015,Overall,Overall,111,0.6
+202425,Academic year,Local authority,England,E92000001,,,Wirral,344,E08000015,Overall,Overall,85,0.5
+202122,Academic year,Local authority,England,E92000001,,,Bolton,350,E08000001,Overall,Overall,125,0.5
+202223,Academic year,Local authority,England,E92000001,,,Bolton,350,E08000001,Overall,Overall,105,0.4
+202324,Academic year,Local authority,England,E92000001,,,Bolton,350,E08000001,Overall,Overall,97,0.5
+202425,Academic year,Local authority,England,E92000001,,,Bolton,350,E08000001,Overall,Overall,99,0.6
+202122,Academic year,Local authority,England,E92000001,,,Bury,351,E08000002,Overall,Overall,73,0.3
+202223,Academic year,Local authority,England,E92000001,,,Bury,351,E08000002,Overall,Overall,65,0.3
+202324,Academic year,Local authority,England,E92000001,,,Bury,351,E08000002,Overall,Overall,51,0.3
+202425,Academic year,Local authority,England,E92000001,,,Bury,351,E08000002,Overall,Overall,54,0.3
+202122,Academic year,Local authority,England,E92000001,,,Manchester,352,E08000003,Overall,Overall,314,1.2
+202223,Academic year,Local authority,England,E92000001,,,Manchester,352,E08000003,Overall,Overall,344,1.4
+202324,Academic year,Local authority,England,E92000001,,,Manchester,352,E08000003,Overall,Overall,303,1.6
+202425,Academic year,Local authority,England,E92000001,,,Manchester,352,E08000003,Overall,Overall,249,1.6
+202122,Academic year,Local authority,England,E92000001,,,Oldham,353,E08000004,Overall,Overall,160,0.6
+202223,Academic year,Local authority,England,E92000001,,,Oldham,353,E08000004,Overall,Overall,145,0.6
+202324,Academic year,Local authority,England,E92000001,,,Oldham,353,E08000004,Overall,Overall,148,0.8
+202425,Academic year,Local authority,England,E92000001,,,Oldham,353,E08000004,Overall,Overall,99,0.6
+202122,Academic year,Local authority,England,E92000001,,,Rochdale,354,E08000005,Overall,Overall,114,0.4
+202223,Academic year,Local authority,England,E92000001,,,Rochdale,354,E08000005,Overall,Overall,96,0.4
+202324,Academic year,Local authority,England,E92000001,,,Rochdale,354,E08000005,Overall,Overall,86,0.4
+202425,Academic year,Local authority,England,E92000001,,,Rochdale,354,E08000005,Overall,Overall,77,0.5
+202122,Academic year,Local authority,England,E92000001,,,Salford,355,E08000006,Overall,Overall,123,0.5
+202223,Academic year,Local authority,England,E92000001,,,Salford,355,E08000006,Overall,Overall,134,0.5
+202324,Academic year,Local authority,England,E92000001,,,Salford,355,E08000006,Overall,Overall,118,0.6
+202425,Academic year,Local authority,England,E92000001,,,Salford,355,E08000006,Overall,Overall,77,0.5
+202122,Academic year,Local authority,England,E92000001,,,Stockport,356,E08000007,Overall,Overall,121,0.5
+202223,Academic year,Local authority,England,E92000001,,,Stockport,356,E08000007,Overall,Overall,136,0.6
+202324,Academic year,Local authority,England,E92000001,,,Stockport,356,E08000007,Overall,Overall,85,0.4
+202425,Academic year,Local authority,England,E92000001,,,Stockport,356,E08000007,Overall,Overall,62,0.4
+202122,Academic year,Local authority,England,E92000001,,,Tameside,357,E08000008,Overall,Overall,108,0.4
+202223,Academic year,Local authority,England,E92000001,,,Tameside,357,E08000008,Overall,Overall,104,0.4
+202324,Academic year,Local authority,England,E92000001,,,Tameside,357,E08000008,Overall,Overall,88,0.5
+202425,Academic year,Local authority,England,E92000001,,,Tameside,357,E08000008,Overall,Overall,79,0.5
+202122,Academic year,Local authority,England,E92000001,,,Trafford,358,E08000009,Overall,Overall,95,0.4
+202223,Academic year,Local authority,England,E92000001,,,Trafford,358,E08000009,Overall,Overall,110,0.4
+202324,Academic year,Local authority,England,E92000001,,,Trafford,358,E08000009,Overall,Overall,63,0.3
+202425,Academic year,Local authority,England,E92000001,,,Trafford,358,E08000009,Overall,Overall,49,0.3
+202122,Academic year,Local authority,England,E92000001,,,Wigan,359,E08000010,Overall,Overall,119,0.5
+202223,Academic year,Local authority,England,E92000001,,,Wigan,359,E08000010,Overall,Overall,92,0.4
+202324,Academic year,Local authority,England,E92000001,,,Wigan,359,E08000010,Overall,Overall,101,0.5
+202425,Academic year,Local authority,England,E92000001,,,Wigan,359,E08000010,Overall,Overall,71,0.5
+202122,Academic year,Local authority,England,E92000001,,,Barnsley,370,E08000016,Overall,Overall,100,0.4
+202223,Academic year,Local authority,England,E92000001,,,Barnsley,370,E08000016,Overall,Overall,92,0.4
+202324,Academic year,Local authority,England,E92000001,,,Barnsley,370,E08000016,Overall,Overall,83,0.4
+202425,Academic year,Local authority,England,E92000001,,,Barnsley,370,E08000016,Overall,Overall,59,0.4
+202122,Academic year,Local authority,England,E92000001,,,Doncaster,371,E08000017,Overall,Overall,163,0.6
+202223,Academic year,Local authority,England,E92000001,,,Doncaster,371,E08000017,Overall,Overall,147,0.6
+202324,Academic year,Local authority,England,E92000001,,,Doncaster,371,E08000017,Overall,Overall,104,0.5
+202425,Academic year,Local authority,England,E92000001,,,Doncaster,371,E08000017,Overall,Overall,77,0.5
+202122,Academic year,Local authority,England,E92000001,,,Rotherham,372,E08000018,Overall,Overall,143,0.6
+202223,Academic year,Local authority,England,E92000001,,,Rotherham,372,E08000018,Overall,Overall,127,0.5
+202324,Academic year,Local authority,England,E92000001,,,Rotherham,372,E08000018,Overall,Overall,93,0.5
+202425,Academic year,Local authority,England,E92000001,,,Rotherham,372,E08000018,Overall,Overall,75,0.5
+202122,Academic year,Local authority,England,E92000001,,,Sheffield,373,E08000019,Overall,Overall,240,0.9
+202223,Academic year,Local authority,England,E92000001,,,Sheffield,373,E08000019,Overall,Overall,269,1.1
+202324,Academic year,Local authority,England,E92000001,,,Sheffield,373,E08000019,Overall,Overall,172,0.9
+202425,Academic year,Local authority,England,E92000001,,,Sheffield,373,E08000019,Overall,Overall,157,1
+202122,Academic year,Local authority,England,E92000001,,,Bradford,380,E08000032,Overall,Overall,318,1.2
+202223,Academic year,Local authority,England,E92000001,,,Bradford,380,E08000032,Overall,Overall,289,1.2
+202324,Academic year,Local authority,England,E92000001,,,Bradford,380,E08000032,Overall,Overall,260,1.4
+202425,Academic year,Local authority,England,E92000001,,,Bradford,380,E08000032,Overall,Overall,175,1.1
+202122,Academic year,Local authority,England,E92000001,,,Calderdale,381,E08000033,Overall,Overall,107,0.4
+202223,Academic year,Local authority,England,E92000001,,,Calderdale,381,E08000033,Overall,Overall,122,0.5
+202324,Academic year,Local authority,England,E92000001,,,Calderdale,381,E08000033,Overall,Overall,94,0.5
+202425,Academic year,Local authority,England,E92000001,,,Calderdale,381,E08000033,Overall,Overall,52,0.3
+202122,Academic year,Local authority,England,E92000001,,,Kirklees,382,E08000034,Overall,Overall,208,0.8
+202223,Academic year,Local authority,England,E92000001,,,Kirklees,382,E08000034,Overall,Overall,180,0.7
+202324,Academic year,Local authority,England,E92000001,,,Kirklees,382,E08000034,Overall,Overall,170,0.9
+202425,Academic year,Local authority,England,E92000001,,,Kirklees,382,E08000034,Overall,Overall,152,1
+202122,Academic year,Local authority,England,E92000001,,,Leeds,383,E08000035,Overall,Overall,488,1.9
+202223,Academic year,Local authority,England,E92000001,,,Leeds,383,E08000035,Overall,Overall,493,2
+202324,Academic year,Local authority,England,E92000001,,,Leeds,383,E08000035,Overall,Overall,353,1.8
+202425,Academic year,Local authority,England,E92000001,,,Leeds,383,E08000035,Overall,Overall,287,1.8
+202122,Academic year,Local authority,England,E92000001,,,Wakefield,384,E08000036,Overall,Overall,159,0.6
+202223,Academic year,Local authority,England,E92000001,,,Wakefield,384,E08000036,Overall,Overall,150,0.6
+202324,Academic year,Local authority,England,E92000001,,,Wakefield,384,E08000036,Overall,Overall,130,0.7
+202425,Academic year,Local authority,England,E92000001,,,Wakefield,384,E08000036,Overall,Overall,114,0.7
+202122,Academic year,Local authority,England,E92000001,,,Gateshead,390,E08000037,Overall,Overall,76,0.3
+202223,Academic year,Local authority,England,E92000001,,,Gateshead,390,E08000037,Overall,Overall,62,0.3
+202324,Academic year,Local authority,England,E92000001,,,Gateshead,390,E08000037,Overall,Overall,58,0.3
+202425,Academic year,Local authority,England,E92000001,,,Gateshead,390,E08000037,Overall,Overall,60,0.4
+202122,Academic year,Local authority,England,E92000001,,,Newcastle upon Tyne,391,E08000021,Overall,Overall,100,0.4
+202223,Academic year,Local authority,England,E92000001,,,Newcastle upon Tyne,391,E08000021,Overall,Overall,119,0.5
+202324,Academic year,Local authority,England,E92000001,,,Newcastle upon Tyne,391,E08000021,Overall,Overall,124,0.6
+202425,Academic year,Local authority,England,E92000001,,,Newcastle upon Tyne,391,E08000021,Overall,Overall,92,0.6
+202122,Academic year,Local authority,England,E92000001,,,North Tyneside,392,E08000022,Overall,Overall,77,0.3
+202223,Academic year,Local authority,England,E92000001,,,North Tyneside,392,E08000022,Overall,Overall,85,0.3
+202324,Academic year,Local authority,England,E92000001,,,North Tyneside,392,E08000022,Overall,Overall,58,0.3
+202425,Academic year,Local authority,England,E92000001,,,North Tyneside,392,E08000022,Overall,Overall,51,0.3
+202122,Academic year,Local authority,England,E92000001,,,South Tyneside,393,E08000023,Overall,Overall,44,0.2
+202223,Academic year,Local authority,England,E92000001,,,South Tyneside,393,E08000023,Overall,Overall,44,0.2
+202324,Academic year,Local authority,England,E92000001,,,South Tyneside,393,E08000023,Overall,Overall,29,0.2
+202425,Academic year,Local authority,England,E92000001,,,South Tyneside,393,E08000023,Overall,Overall,28,0.2
+202122,Academic year,Local authority,England,E92000001,,,Sunderland,394,E08000024,Overall,Overall,87,0.3
+202223,Academic year,Local authority,England,E92000001,,,Sunderland,394,E08000024,Overall,Overall,114,0.5
+202324,Academic year,Local authority,England,E92000001,,,Sunderland,394,E08000024,Overall,Overall,115,0.6
+202425,Academic year,Local authority,England,E92000001,,,Sunderland,394,E08000024,Overall,Overall,64,0.4
+202122,Academic year,Local authority,England,E92000001,,,Isles of Scilly,420,E06000053,Overall,Overall,c,c
+202223,Academic year,Local authority,England,E92000001,,,Isles of Scilly,420,E06000053,Overall,Overall,c,c
+202324,Academic year,Local authority,England,E92000001,,,Isles of Scilly,420,E06000053,Overall,Overall,c,c
+202425,Academic year,Local authority,England,E92000001,,,Isles of Scilly,420,E06000053,Overall,Overall,c,c
+202122,Academic year,Local authority,England,E92000001,,,Bath and North East Somerset,800,E06000022,Overall,Overall,34,0.1
+202223,Academic year,Local authority,England,E92000001,,,Bath and North East Somerset,800,E06000022,Overall,Overall,37,0.1
+202324,Academic year,Local authority,England,E92000001,,,Bath and North East Somerset,800,E06000022,Overall,Overall,65,0.3
+202425,Academic year,Local authority,England,E92000001,,,Bath and North East Somerset,800,E06000022,Overall,Overall,70,0.4
+202122,Academic year,Local authority,England,E92000001,,,"Bristol, City of",801,E06000023,Overall,Overall,205,0.8
+202223,Academic year,Local authority,England,E92000001,,,"Bristol, City of",801,E06000023,Overall,Overall,234,0.9
+202324,Academic year,Local authority,England,E92000001,,,"Bristol, City of",801,E06000023,Overall,Overall,168,0.9
+202425,Academic year,Local authority,England,E92000001,,,"Bristol, City of",801,E06000023,Overall,Overall,158,1
+202122,Academic year,Local authority,England,E92000001,,,North Somerset,802,E06000024,Overall,Overall,110,0.4
+202223,Academic year,Local authority,England,E92000001,,,North Somerset,802,E06000024,Overall,Overall,75,0.3
+202324,Academic year,Local authority,England,E92000001,,,North Somerset,802,E06000024,Overall,Overall,60,0.3
+202425,Academic year,Local authority,England,E92000001,,,North Somerset,802,E06000024,Overall,Overall,64,0.4
+202122,Academic year,Local authority,England,E92000001,,,South Gloucestershire,803,E06000025,Overall,Overall,110,0.4
+202223,Academic year,Local authority,England,E92000001,,,South Gloucestershire,803,E06000025,Overall,Overall,101,0.4
+202324,Academic year,Local authority,England,E92000001,,,South Gloucestershire,803,E06000025,Overall,Overall,99,0.5
+202425,Academic year,Local authority,England,E92000001,,,South Gloucestershire,803,E06000025,Overall,Overall,118,0.8
+202122,Academic year,Local authority,England,E92000001,,,Hartlepool,805,E06000001,Overall,Overall,38,0.1
+202223,Academic year,Local authority,England,E92000001,,,Hartlepool,805,E06000001,Overall,Overall,39,0.2
+202324,Academic year,Local authority,England,E92000001,,,Hartlepool,805,E06000001,Overall,Overall,36,0.2
+202425,Academic year,Local authority,England,E92000001,,,Hartlepool,805,E06000001,Overall,Overall,22,0.1
+202122,Academic year,Local authority,England,E92000001,,,Middlesbrough,806,E06000002,Overall,Overall,70,0.3
+202223,Academic year,Local authority,England,E92000001,,,Middlesbrough,806,E06000002,Overall,Overall,79,0.3
+202324,Academic year,Local authority,England,E92000001,,,Middlesbrough,806,E06000002,Overall,Overall,56,0.3
+202425,Academic year,Local authority,England,E92000001,,,Middlesbrough,806,E06000002,Overall,Overall,43,0.3
+202122,Academic year,Local authority,England,E92000001,,,Redcar and Cleveland,807,E06000003,Overall,Overall,51,0.2
+202223,Academic year,Local authority,England,E92000001,,,Redcar and Cleveland,807,E06000003,Overall,Overall,51,0.2
+202324,Academic year,Local authority,England,E92000001,,,Redcar and Cleveland,807,E06000003,Overall,Overall,40,0.2
+202425,Academic year,Local authority,England,E92000001,,,Redcar and Cleveland,807,E06000003,Overall,Overall,29,0.2
+202122,Academic year,Local authority,England,E92000001,,,Stockton-on-Tees,808,E06000004,Overall,Overall,67,0.3
+202223,Academic year,Local authority,England,E92000001,,,Stockton-on-Tees,808,E06000004,Overall,Overall,80,0.3
+202324,Academic year,Local authority,England,E92000001,,,Stockton-on-Tees,808,E06000004,Overall,Overall,71,0.4
+202425,Academic year,Local authority,England,E92000001,,,Stockton-on-Tees,808,E06000004,Overall,Overall,52,0.3
+202122,Academic year,Local authority,England,E92000001,,,"Kingston upon Hull, City of",810,E06000010,Overall,Overall,180,0.7
+202223,Academic year,Local authority,England,E92000001,,,"Kingston upon Hull, City of",810,E06000010,Overall,Overall,139,0.6
+202324,Academic year,Local authority,England,E92000001,,,"Kingston upon Hull, City of",810,E06000010,Overall,Overall,107,0.6
+202425,Academic year,Local authority,England,E92000001,,,"Kingston upon Hull, City of",810,E06000010,Overall,Overall,57,0.4
+202122,Academic year,Local authority,England,E92000001,,,East Riding of Yorkshire,811,E06000011,Overall,Overall,104,0.4
+202223,Academic year,Local authority,England,E92000001,,,East Riding of Yorkshire,811,E06000011,Overall,Overall,115,0.5
+202324,Academic year,Local authority,England,E92000001,,,East Riding of Yorkshire,811,E06000011,Overall,Overall,73,0.4
+202425,Academic year,Local authority,England,E92000001,,,East Riding of Yorkshire,811,E06000011,Overall,Overall,58,0.4
+202122,Academic year,Local authority,England,E92000001,,,North East Lincolnshire,812,E06000012,Overall,Overall,82,0.3
+202223,Academic year,Local authority,England,E92000001,,,North East Lincolnshire,812,E06000012,Overall,Overall,69,0.3
+202324,Academic year,Local authority,England,E92000001,,,North East Lincolnshire,812,E06000012,Overall,Overall,52,0.3
+202425,Academic year,Local authority,England,E92000001,,,North East Lincolnshire,812,E06000012,Overall,Overall,59,0.4
+202122,Academic year,Local authority,England,E92000001,,,North Lincolnshire,813,E06000013,Overall,Overall,54,0.2
+202223,Academic year,Local authority,England,E92000001,,,North Lincolnshire,813,E06000013,Overall,Overall,86,0.3
+202324,Academic year,Local authority,England,E92000001,,,North Lincolnshire,813,E06000013,Overall,Overall,43,0.2
+202425,Academic year,Local authority,England,E92000001,,,North Lincolnshire,813,E06000013,Overall,Overall,53,0.3
+202122,Academic year,Local authority,England,E92000001,,,North Yorkshire,815,E06000065,Overall,Overall,218,0.8
+202223,Academic year,Local authority,England,E92000001,,,North Yorkshire,815,E06000065,Overall,Overall,199,0.8
+202324,Academic year,Local authority,England,E92000001,,,North Yorkshire,815,E06000065,Overall,Overall,163,0.9
+202425,Academic year,Local authority,England,E92000001,,,North Yorkshire,815,E06000065,Overall,Overall,109,0.7
+202122,Academic year,Local authority,England,E92000001,,,York,816,E06000014,Overall,Overall,49,0.2
+202223,Academic year,Local authority,England,E92000001,,,York,816,E06000014,Overall,Overall,58,0.2
+202324,Academic year,Local authority,England,E92000001,,,York,816,E06000014,Overall,Overall,45,0.2
+202425,Academic year,Local authority,England,E92000001,,,York,816,E06000014,Overall,Overall,23,0.1
+202122,Academic year,Local authority,England,E92000001,,,Luton,821,E06000032,Overall,Overall,126,0.5
+202223,Academic year,Local authority,England,E92000001,,,Luton,821,E06000032,Overall,Overall,129,0.5
+202324,Academic year,Local authority,England,E92000001,,,Luton,821,E06000032,Overall,Overall,109,0.6
+202425,Academic year,Local authority,England,E92000001,,,Luton,821,E06000032,Overall,Overall,84,0.5
+202122,Academic year,Local authority,England,E92000001,,,Bedford,822,E06000055,Overall,Overall,127,0.5
+202223,Academic year,Local authority,England,E92000001,,,Bedford,822,E06000055,Overall,Overall,96,0.4
+202324,Academic year,Local authority,England,E92000001,,,Bedford,822,E06000055,Overall,Overall,55,0.3
+202425,Academic year,Local authority,England,E92000001,,,Bedford,822,E06000055,Overall,Overall,55,0.4
+202122,Academic year,Local authority,England,E92000001,,,Central Bedfordshire,823,E06000056,Overall,Overall,138,0.5
+202223,Academic year,Local authority,England,E92000001,,,Central Bedfordshire,823,E06000056,Overall,Overall,113,0.5
+202324,Academic year,Local authority,England,E92000001,,,Central Bedfordshire,823,E06000056,Overall,Overall,78,0.4
+202425,Academic year,Local authority,England,E92000001,,,Central Bedfordshire,823,E06000056,Overall,Overall,79,0.5
+202122,Academic year,Local authority,England,E92000001,,,Buckinghamshire,825,E06000060,Overall,Overall,244,0.9
+202223,Academic year,Local authority,England,E92000001,,,Buckinghamshire,825,E06000060,Overall,Overall,236,1
+202324,Academic year,Local authority,England,E92000001,,,Buckinghamshire,825,E06000060,Overall,Overall,174,0.9
+202425,Academic year,Local authority,England,E92000001,,,Buckinghamshire,825,E06000060,Overall,Overall,141,0.9
+202122,Academic year,Local authority,England,E92000001,,,Milton Keynes,826,E06000042,Overall,Overall,204,0.8
+202223,Academic year,Local authority,England,E92000001,,,Milton Keynes,826,E06000042,Overall,Overall,181,0.7
+202324,Academic year,Local authority,England,E92000001,,,Milton Keynes,826,E06000042,Overall,Overall,125,0.7
+202425,Academic year,Local authority,England,E92000001,,,Milton Keynes,826,E06000042,Overall,Overall,95,0.6
+202122,Academic year,Local authority,England,E92000001,,,Derbyshire,830,E10000007,Overall,Overall,289,1.1
+202223,Academic year,Local authority,England,E92000001,,,Derbyshire,830,E10000007,Overall,Overall,291,1.2
+202324,Academic year,Local authority,England,E92000001,,,Derbyshire,830,E10000007,Overall,Overall,226,1.2
+202425,Academic year,Local authority,England,E92000001,,,Derbyshire,830,E10000007,Overall,Overall,168,1.1
+202122,Academic year,Local authority,England,E92000001,,,Derby,831,E06000015,Overall,Overall,134,0.5
+202223,Academic year,Local authority,England,E92000001,,,Derby,831,E06000015,Overall,Overall,111,0.4
+202324,Academic year,Local authority,England,E92000001,,,Derby,831,E06000015,Overall,Overall,117,0.6
+202425,Academic year,Local authority,England,E92000001,,,Derby,831,E06000015,Overall,Overall,119,0.8
+202122,Academic year,Local authority,England,E92000001,,,Dorset,838,E06000059,Overall,Overall,129,0.5
+202223,Academic year,Local authority,England,E92000001,,,Dorset,838,E06000059,Overall,Overall,147,0.6
+202324,Academic year,Local authority,England,E92000001,,,Dorset,838,E06000059,Overall,Overall,95,0.5
+202425,Academic year,Local authority,England,E92000001,,,Dorset,838,E06000059,Overall,Overall,64,0.4
+202122,Academic year,Local authority,England,E92000001,,,"Bournemouth, Christchurch and Poole",839,E06000058,Overall,Overall,166,0.6
+202223,Academic year,Local authority,England,E92000001,,,"Bournemouth, Christchurch and Poole",839,E06000058,Overall,Overall,166,0.7
+202324,Academic year,Local authority,England,E92000001,,,"Bournemouth, Christchurch and Poole",839,E06000058,Overall,Overall,124,0.6
+202425,Academic year,Local authority,England,E92000001,,,"Bournemouth, Christchurch and Poole",839,E06000058,Overall,Overall,119,0.8
+202122,Academic year,Local authority,England,E92000001,,,County Durham,840,E06000047,Overall,Overall,186,0.7
+202223,Academic year,Local authority,England,E92000001,,,County Durham,840,E06000047,Overall,Overall,208,0.8
+202324,Academic year,Local authority,England,E92000001,,,County Durham,840,E06000047,Overall,Overall,157,0.8
+202425,Academic year,Local authority,England,E92000001,,,County Durham,840,E06000047,Overall,Overall,99,0.6
+202122,Academic year,Local authority,England,E92000001,,,Darlington,841,E06000005,Overall,Overall,41,0.2
+202223,Academic year,Local authority,England,E92000001,,,Darlington,841,E06000005,Overall,Overall,35,0.1
+202324,Academic year,Local authority,England,E92000001,,,Darlington,841,E06000005,Overall,Overall,25,0.1
+202425,Academic year,Local authority,England,E92000001,,,Darlington,841,E06000005,Overall,Overall,21,0.1
+202122,Academic year,Local authority,England,E92000001,,,East Sussex,845,E10000011,Overall,Overall,210,0.8
+202223,Academic year,Local authority,England,E92000001,,,East Sussex,845,E10000011,Overall,Overall,210,0.8
+202324,Academic year,Local authority,England,E92000001,,,East Sussex,845,E10000011,Overall,Overall,139,0.7
+202425,Academic year,Local authority,England,E92000001,,,East Sussex,845,E10000011,Overall,Overall,151,1
+202122,Academic year,Local authority,England,E92000001,,,Brighton and Hove,846,E06000043,Overall,Overall,80,0.3
+202223,Academic year,Local authority,England,E92000001,,,Brighton and Hove,846,E06000043,Overall,Overall,98,0.4
+202324,Academic year,Local authority,England,E92000001,,,Brighton and Hove,846,E06000043,Overall,Overall,78,0.4
+202425,Academic year,Local authority,England,E92000001,,,Brighton and Hove,846,E06000043,Overall,Overall,52,0.3
+202122,Academic year,Local authority,England,E92000001,,,Hampshire,850,E10000014,Overall,Overall,604,2.3
+202223,Academic year,Local authority,England,E92000001,,,Hampshire,850,E10000014,Overall,Overall,531,2.1
+202324,Academic year,Local authority,England,E92000001,,,Hampshire,850,E10000014,Overall,Overall,434,2.3
+202425,Academic year,Local authority,England,E92000001,,,Hampshire,850,E10000014,Overall,Overall,309,2
+202122,Academic year,Local authority,England,E92000001,,,Portsmouth,851,E06000044,Overall,Overall,104,0.4
+202223,Academic year,Local authority,England,E92000001,,,Portsmouth,851,E06000044,Overall,Overall,87,0.4
+202324,Academic year,Local authority,England,E92000001,,,Portsmouth,851,E06000044,Overall,Overall,76,0.4
+202425,Academic year,Local authority,England,E92000001,,,Portsmouth,851,E06000044,Overall,Overall,63,0.4
+202122,Academic year,Local authority,England,E92000001,,,Southampton,852,E06000045,Overall,Overall,121,0.5
+202223,Academic year,Local authority,England,E92000001,,,Southampton,852,E06000045,Overall,Overall,110,0.4
+202324,Academic year,Local authority,England,E92000001,,,Southampton,852,E06000045,Overall,Overall,62,0.3
+202425,Academic year,Local authority,England,E92000001,,,Southampton,852,E06000045,Overall,Overall,68,0.4
+202122,Academic year,Local authority,England,E92000001,,,Leicestershire,855,E10000018,Overall,Overall,317,1.2
+202223,Academic year,Local authority,England,E92000001,,,Leicestershire,855,E10000018,Overall,Overall,303,1.2
+202324,Academic year,Local authority,England,E92000001,,,Leicestershire,855,E10000018,Overall,Overall,242,1.3
+202425,Academic year,Local authority,England,E92000001,,,Leicestershire,855,E10000018,Overall,Overall,189,1.2
+202122,Academic year,Local authority,England,E92000001,,,Leicester,856,E06000016,Overall,Overall,160,0.6
+202223,Academic year,Local authority,England,E92000001,,,Leicester,856,E06000016,Overall,Overall,186,0.8
+202324,Academic year,Local authority,England,E92000001,,,Leicester,856,E06000016,Overall,Overall,157,0.8
+202425,Academic year,Local authority,England,E92000001,,,Leicester,856,E06000016,Overall,Overall,108,0.7
+202122,Academic year,Local authority,England,E92000001,,,Rutland,857,E06000017,Overall,Overall,18,0.1
+202223,Academic year,Local authority,England,E92000001,,,Rutland,857,E06000017,Overall,Overall,20,0.1
+202324,Academic year,Local authority,England,E92000001,,,Rutland,857,E06000017,Overall,Overall,13,0.1
+202425,Academic year,Local authority,England,E92000001,,,Rutland,857,E06000017,Overall,Overall,15,0.1
+202122,Academic year,Local authority,England,E92000001,,,Staffordshire,860,E10000028,Overall,Overall,354,1.4
+202223,Academic year,Local authority,England,E92000001,,,Staffordshire,860,E10000028,Overall,Overall,299,1.2
+202324,Academic year,Local authority,England,E92000001,,,Staffordshire,860,E10000028,Overall,Overall,256,1.3
+202425,Academic year,Local authority,England,E92000001,,,Staffordshire,860,E10000028,Overall,Overall,189,1.2
+202122,Academic year,Local authority,England,E92000001,,,Stoke-on-Trent,861,E06000021,Overall,Overall,120,0.5
+202223,Academic year,Local authority,England,E92000001,,,Stoke-on-Trent,861,E06000021,Overall,Overall,104,0.4
+202324,Academic year,Local authority,England,E92000001,,,Stoke-on-Trent,861,E06000021,Overall,Overall,95,0.5
+202425,Academic year,Local authority,England,E92000001,,,Stoke-on-Trent,861,E06000021,Overall,Overall,60,0.4
+202122,Academic year,Local authority,England,E92000001,,,Wiltshire,865,E06000054,Overall,Overall,187,0.7
+202223,Academic year,Local authority,England,E92000001,,,Wiltshire,865,E06000054,Overall,Overall,213,0.9
+202324,Academic year,Local authority,England,E92000001,,,Wiltshire,865,E06000054,Overall,Overall,176,0.9
+202425,Academic year,Local authority,England,E92000001,,,Wiltshire,865,E06000054,Overall,Overall,141,0.9
+202122,Academic year,Local authority,England,E92000001,,,Swindon,866,E06000030,Overall,Overall,98,0.4
+202223,Academic year,Local authority,England,E92000001,,,Swindon,866,E06000030,Overall,Overall,90,0.4
+202324,Academic year,Local authority,England,E92000001,,,Swindon,866,E06000030,Overall,Overall,86,0.4
+202425,Academic year,Local authority,England,E92000001,,,Swindon,866,E06000030,Overall,Overall,81,0.5
+202122,Academic year,Local authority,England,E92000001,,,Bracknell Forest,867,E06000036,Overall,Overall,69,0.3
+202223,Academic year,Local authority,England,E92000001,,,Bracknell Forest,867,E06000036,Overall,Overall,72,0.3
+202324,Academic year,Local authority,England,E92000001,,,Bracknell Forest,867,E06000036,Overall,Overall,30,0.2
+202425,Academic year,Local authority,England,E92000001,,,Bracknell Forest,867,E06000036,Overall,Overall,26,0.2
+202122,Academic year,Local authority,England,E92000001,,,Windsor and Maidenhead,868,E06000040,Overall,Overall,77,0.3
+202223,Academic year,Local authority,England,E92000001,,,Windsor and Maidenhead,868,E06000040,Overall,Overall,59,0.2
+202324,Academic year,Local authority,England,E92000001,,,Windsor and Maidenhead,868,E06000040,Overall,Overall,55,0.3
+202425,Academic year,Local authority,England,E92000001,,,Windsor and Maidenhead,868,E06000040,Overall,Overall,41,0.3
+202122,Academic year,Local authority,England,E92000001,,,West Berkshire,869,E06000037,Overall,Overall,90,0.3
+202223,Academic year,Local authority,England,E92000001,,,West Berkshire,869,E06000037,Overall,Overall,79,0.3
+202324,Academic year,Local authority,England,E92000001,,,West Berkshire,869,E06000037,Overall,Overall,59,0.3
+202425,Academic year,Local authority,England,E92000001,,,West Berkshire,869,E06000037,Overall,Overall,60,0.4
+202122,Academic year,Local authority,England,E92000001,,,Reading,870,E06000038,Overall,Overall,81,0.3
+202223,Academic year,Local authority,England,E92000001,,,Reading,870,E06000038,Overall,Overall,83,0.3
+202324,Academic year,Local authority,England,E92000001,,,Reading,870,E06000038,Overall,Overall,54,0.3
+202425,Academic year,Local authority,England,E92000001,,,Reading,870,E06000038,Overall,Overall,56,0.4
+202122,Academic year,Local authority,England,E92000001,,,Slough,871,E06000039,Overall,Overall,121,0.5
+202223,Academic year,Local authority,England,E92000001,,,Slough,871,E06000039,Overall,Overall,117,0.5
+202324,Academic year,Local authority,England,E92000001,,,Slough,871,E06000039,Overall,Overall,64,0.3
+202425,Academic year,Local authority,England,E92000001,,,Slough,871,E06000039,Overall,Overall,72,0.5
+202122,Academic year,Local authority,England,E92000001,,,Wokingham,872,E06000041,Overall,Overall,83,0.3
+202223,Academic year,Local authority,England,E92000001,,,Wokingham,872,E06000041,Overall,Overall,118,0.5
+202324,Academic year,Local authority,England,E92000001,,,Wokingham,872,E06000041,Overall,Overall,69,0.4
+202425,Academic year,Local authority,England,E92000001,,,Wokingham,872,E06000041,Overall,Overall,51,0.3
+202122,Academic year,Local authority,England,E92000001,,,Cambridgeshire,873,E10000003,Overall,Overall,297,1.1
+202223,Academic year,Local authority,England,E92000001,,,Cambridgeshire,873,E10000003,Overall,Overall,276,1.1
+202324,Academic year,Local authority,England,E92000001,,,Cambridgeshire,873,E10000003,Overall,Overall,238,1.2
+202425,Academic year,Local authority,England,E92000001,,,Cambridgeshire,873,E10000003,Overall,Overall,224,1.4
+202122,Academic year,Local authority,England,E92000001,,,Peterborough,874,E06000031,Overall,Overall,139,0.5
+202223,Academic year,Local authority,England,E92000001,,,Peterborough,874,E06000031,Overall,Overall,104,0.4
+202324,Academic year,Local authority,England,E92000001,,,Peterborough,874,E06000031,Overall,Overall,86,0.4
+202425,Academic year,Local authority,England,E92000001,,,Peterborough,874,E06000031,Overall,Overall,113,0.7
+202122,Academic year,Local authority,England,E92000001,,,Halton,876,E06000006,Overall,Overall,58,0.2
+202223,Academic year,Local authority,England,E92000001,,,Halton,876,E06000006,Overall,Overall,69,0.3
+202324,Academic year,Local authority,England,E92000001,,,Halton,876,E06000006,Overall,Overall,39,0.2
+202425,Academic year,Local authority,England,E92000001,,,Halton,876,E06000006,Overall,Overall,40,0.3
+202122,Academic year,Local authority,England,E92000001,,,Warrington,877,E06000007,Overall,Overall,82,0.3
+202223,Academic year,Local authority,England,E92000001,,,Warrington,877,E06000007,Overall,Overall,97,0.4
+202324,Academic year,Local authority,England,E92000001,,,Warrington,877,E06000007,Overall,Overall,85,0.4
+202425,Academic year,Local authority,England,E92000001,,,Warrington,877,E06000007,Overall,Overall,62,0.4
+202122,Academic year,Local authority,England,E92000001,,,Devon,878,E10000008,Overall,Overall,267,1
+202223,Academic year,Local authority,England,E92000001,,,Devon,878,E10000008,Overall,Overall,312,1.3
+202324,Academic year,Local authority,England,E92000001,,,Devon,878,E10000008,Overall,Overall,191,1
+202425,Academic year,Local authority,England,E92000001,,,Devon,878,E10000008,Overall,Overall,129,0.8
+202122,Academic year,Local authority,England,E92000001,,,Plymouth,879,E06000026,Overall,Overall,123,0.5
+202223,Academic year,Local authority,England,E92000001,,,Plymouth,879,E06000026,Overall,Overall,117,0.5
+202324,Academic year,Local authority,England,E92000001,,,Plymouth,879,E06000026,Overall,Overall,83,0.4
+202425,Academic year,Local authority,England,E92000001,,,Plymouth,879,E06000026,Overall,Overall,57,0.4
+202122,Academic year,Local authority,England,E92000001,,,Torbay,880,E06000027,Overall,Overall,40,0.2
+202223,Academic year,Local authority,England,E92000001,,,Torbay,880,E06000027,Overall,Overall,56,0.2
+202324,Academic year,Local authority,England,E92000001,,,Torbay,880,E06000027,Overall,Overall,26,0.1
+202425,Academic year,Local authority,England,E92000001,,,Torbay,880,E06000027,Overall,Overall,22,0.1
+202122,Academic year,Local authority,England,E92000001,,,Essex,881,E10000012,Overall,Overall,716,2.8
+202223,Academic year,Local authority,England,E92000001,,,Essex,881,E10000012,Overall,Overall,668,2.7
+202324,Academic year,Local authority,England,E92000001,,,Essex,881,E10000012,Overall,Overall,458,2.4
+202425,Academic year,Local authority,England,E92000001,,,Essex,881,E10000012,Overall,Overall,378,2.4
+202122,Academic year,Local authority,England,E92000001,,,Southend-on-Sea,882,E06000033,Overall,Overall,70,0.3
+202223,Academic year,Local authority,England,E92000001,,,Southend-on-Sea,882,E06000033,Overall,Overall,58,0.2
+202324,Academic year,Local authority,England,E92000001,,,Southend-on-Sea,882,E06000033,Overall,Overall,44,0.2
+202425,Academic year,Local authority,England,E92000001,,,Southend-on-Sea,882,E06000033,Overall,Overall,47,0.3
+202122,Academic year,Local authority,England,E92000001,,,Thurrock,883,E06000034,Overall,Overall,131,0.5
+202223,Academic year,Local authority,England,E92000001,,,Thurrock,883,E06000034,Overall,Overall,101,0.4
+202324,Academic year,Local authority,England,E92000001,,,Thurrock,883,E06000034,Overall,Overall,73,0.4
+202425,Academic year,Local authority,England,E92000001,,,Thurrock,883,E06000034,Overall,Overall,51,0.3
+202122,Academic year,Local authority,England,E92000001,,,"Herefordshire, County of",884,E06000019,Overall,Overall,63,0.2
+202223,Academic year,Local authority,England,E92000001,,,"Herefordshire, County of",884,E06000019,Overall,Overall,70,0.3
+202324,Academic year,Local authority,England,E92000001,,,"Herefordshire, County of",884,E06000019,Overall,Overall,41,0.2
+202425,Academic year,Local authority,England,E92000001,,,"Herefordshire, County of",884,E06000019,Overall,Overall,37,0.2
+202122,Academic year,Local authority,England,E92000001,,,Worcestershire,885,E10000034,Overall,Overall,219,0.8
+202223,Academic year,Local authority,England,E92000001,,,Worcestershire,885,E10000034,Overall,Overall,202,0.8
+202324,Academic year,Local authority,England,E92000001,,,Worcestershire,885,E10000034,Overall,Overall,190,1
+202425,Academic year,Local authority,England,E92000001,,,Worcestershire,885,E10000034,Overall,Overall,158,1
+202122,Academic year,Local authority,England,E92000001,,,Kent,886,E10000016,Overall,Overall,731,2.8
+202223,Academic year,Local authority,England,E92000001,,,Kent,886,E10000016,Overall,Overall,666,2.7
+202324,Academic year,Local authority,England,E92000001,,,Kent,886,E10000016,Overall,Overall,577,3
+202425,Academic year,Local authority,England,E92000001,,,Kent,886,E10000016,Overall,Overall,415,2.7
+202122,Academic year,Local authority,England,E92000001,,,Medway,887,E06000035,Overall,Overall,184,0.7
+202223,Academic year,Local authority,England,E92000001,,,Medway,887,E06000035,Overall,Overall,152,0.6
+202324,Academic year,Local authority,England,E92000001,,,Medway,887,E06000035,Overall,Overall,111,0.6
+202425,Academic year,Local authority,England,E92000001,,,Medway,887,E06000035,Overall,Overall,85,0.5
+202122,Academic year,Local authority,England,E92000001,,,Lancashire,888,E10000017,Overall,Overall,392,1.5
+202223,Academic year,Local authority,England,E92000001,,,Lancashire,888,E10000017,Overall,Overall,362,1.5
+202324,Academic year,Local authority,England,E92000001,,,Lancashire,888,E10000017,Overall,Overall,292,1.5
+202425,Academic year,Local authority,England,E92000001,,,Lancashire,888,E10000017,Overall,Overall,268,1.7
+202122,Academic year,Local authority,England,E92000001,,,Blackburn with Darwen,889,E06000008,Overall,Overall,91,0.4
+202223,Academic year,Local authority,England,E92000001,,,Blackburn with Darwen,889,E06000008,Overall,Overall,61,0.2
+202324,Academic year,Local authority,England,E92000001,,,Blackburn with Darwen,889,E06000008,Overall,Overall,78,0.4
+202425,Academic year,Local authority,England,E92000001,,,Blackburn with Darwen,889,E06000008,Overall,Overall,75,0.5
+202122,Academic year,Local authority,England,E92000001,,,Blackpool,890,E06000009,Overall,Overall,61,0.2
+202223,Academic year,Local authority,England,E92000001,,,Blackpool,890,E06000009,Overall,Overall,57,0.2
+202324,Academic year,Local authority,England,E92000001,,,Blackpool,890,E06000009,Overall,Overall,42,0.2
+202425,Academic year,Local authority,England,E92000001,,,Blackpool,890,E06000009,Overall,Overall,33,0.2
+202122,Academic year,Local authority,England,E92000001,,,Nottinghamshire,891,E10000024,Overall,Overall,348,1.3
+202223,Academic year,Local authority,England,E92000001,,,Nottinghamshire,891,E10000024,Overall,Overall,358,1.4
+202324,Academic year,Local authority,England,E92000001,,,Nottinghamshire,891,E10000024,Overall,Overall,266,1.4
+202425,Academic year,Local authority,England,E92000001,,,Nottinghamshire,891,E10000024,Overall,Overall,237,1.5
+202122,Academic year,Local authority,England,E92000001,,,Nottingham,892,E06000018,Overall,Overall,195,0.8
+202223,Academic year,Local authority,England,E92000001,,,Nottingham,892,E06000018,Overall,Overall,205,0.8
+202324,Academic year,Local authority,England,E92000001,,,Nottingham,892,E06000018,Overall,Overall,158,0.8
+202425,Academic year,Local authority,England,E92000001,,,Nottingham,892,E06000018,Overall,Overall,126,0.8
+202122,Academic year,Local authority,England,E92000001,,,Shropshire,893,E06000051,Overall,Overall,91,0.4
+202223,Academic year,Local authority,England,E92000001,,,Shropshire,893,E06000051,Overall,Overall,83,0.3
+202324,Academic year,Local authority,England,E92000001,,,Shropshire,893,E06000051,Overall,Overall,69,0.4
+202425,Academic year,Local authority,England,E92000001,,,Shropshire,893,E06000051,Overall,Overall,56,0.4
+202122,Academic year,Local authority,England,E92000001,,,Telford and Wrekin,894,E06000020,Overall,Overall,102,0.4
+202223,Academic year,Local authority,England,E92000001,,,Telford and Wrekin,894,E06000020,Overall,Overall,76,0.3
+202324,Academic year,Local authority,England,E92000001,,,Telford and Wrekin,894,E06000020,Overall,Overall,71,0.4
+202425,Academic year,Local authority,England,E92000001,,,Telford and Wrekin,894,E06000020,Overall,Overall,57,0.4
+202122,Academic year,Local authority,England,E92000001,,,Cheshire East,895,E06000049,Overall,Overall,130,0.5
+202223,Academic year,Local authority,England,E92000001,,,Cheshire East,895,E06000049,Overall,Overall,139,0.6
+202324,Academic year,Local authority,England,E92000001,,,Cheshire East,895,E06000049,Overall,Overall,111,0.6
+202425,Academic year,Local authority,England,E92000001,,,Cheshire East,895,E06000049,Overall,Overall,71,0.5
+202122,Academic year,Local authority,England,E92000001,,,Cheshire West and Chester,896,E06000050,Overall,Overall,109,0.4
+202223,Academic year,Local authority,England,E92000001,,,Cheshire West and Chester,896,E06000050,Overall,Overall,100,0.4
+202324,Academic year,Local authority,England,E92000001,,,Cheshire West and Chester,896,E06000050,Overall,Overall,79,0.4
+202425,Academic year,Local authority,England,E92000001,,,Cheshire West and Chester,896,E06000050,Overall,Overall,54,0.3
+202122,Academic year,Local authority,England,E92000001,,,Cornwall,908,E06000052,Overall,Overall,202,0.8
+202223,Academic year,Local authority,England,E92000001,,,Cornwall,908,E06000052,Overall,Overall,174,0.7
+202324,Academic year,Local authority,England,E92000001,,,Cornwall,908,E06000052,Overall,Overall,147,0.8
+202425,Academic year,Local authority,England,E92000001,,,Cornwall,908,E06000052,Overall,Overall,132,0.8
+202122,Academic year,Local authority,England,E92000001,,,Gloucestershire,916,E10000013,Overall,Overall,276,1.1
+202223,Academic year,Local authority,England,E92000001,,,Gloucestershire,916,E10000013,Overall,Overall,207,0.8
+202324,Academic year,Local authority,England,E92000001,,,Gloucestershire,916,E10000013,Overall,Overall,203,1.1
+202425,Academic year,Local authority,England,E92000001,,,Gloucestershire,916,E10000013,Overall,Overall,152,1
+202122,Academic year,Local authority,England,E92000001,,,Hertfordshire,919,E10000015,Overall,Overall,573,2.2
+202223,Academic year,Local authority,England,E92000001,,,Hertfordshire,919,E10000015,Overall,Overall,540,2.2
+202324,Academic year,Local authority,England,E92000001,,,Hertfordshire,919,E10000015,Overall,Overall,404,2.1
+202425,Academic year,Local authority,England,E92000001,,,Hertfordshire,919,E10000015,Overall,Overall,340,2.2
+202122,Academic year,Local authority,England,E92000001,,,Isle of Wight,921,E06000046,Overall,Overall,40,0.2
+202223,Academic year,Local authority,England,E92000001,,,Isle of Wight,921,E06000046,Overall,Overall,38,0.2
+202324,Academic year,Local authority,England,E92000001,,,Isle of Wight,921,E06000046,Overall,Overall,24,0.1
+202425,Academic year,Local authority,England,E92000001,,,Isle of Wight,921,E06000046,Overall,Overall,36,0.2
+202122,Academic year,Local authority,England,E92000001,,,Lincolnshire,925,E10000019,Overall,Overall,337,1.3
+202223,Academic year,Local authority,England,E92000001,,,Lincolnshire,925,E10000019,Overall,Overall,336,1.4
+202324,Academic year,Local authority,England,E92000001,,,Lincolnshire,925,E10000019,Overall,Overall,266,1.4
+202425,Academic year,Local authority,England,E92000001,,,Lincolnshire,925,E10000019,Overall,Overall,236,1.5
+202122,Academic year,Local authority,England,E92000001,,,Norfolk,926,E10000020,Overall,Overall,342,1.3
+202223,Academic year,Local authority,England,E92000001,,,Norfolk,926,E10000020,Overall,Overall,360,1.5
+202324,Academic year,Local authority,England,E92000001,,,Norfolk,926,E10000020,Overall,Overall,258,1.3
+202425,Academic year,Local authority,England,E92000001,,,Norfolk,926,E10000020,Overall,Overall,217,1.4
+202122,Academic year,Local authority,England,E92000001,,,Northumberland,929,E06000057,Overall,Overall,113,0.4
+202223,Academic year,Local authority,England,E92000001,,,Northumberland,929,E06000057,Overall,Overall,113,0.5
+202324,Academic year,Local authority,England,E92000001,,,Northumberland,929,E06000057,Overall,Overall,121,0.6
+202425,Academic year,Local authority,England,E92000001,,,Northumberland,929,E06000057,Overall,Overall,71,0.5
+202122,Academic year,Local authority,England,E92000001,,,Oxfordshire,931,E10000025,Overall,Overall,343,1.3
+202223,Academic year,Local authority,England,E92000001,,,Oxfordshire,931,E10000025,Overall,Overall,325,1.3
+202324,Academic year,Local authority,England,E92000001,,,Oxfordshire,931,E10000025,Overall,Overall,246,1.3
+202425,Academic year,Local authority,England,E92000001,,,Oxfordshire,931,E10000025,Overall,Overall,212,1.4
+202122,Academic year,Local authority,England,E92000001,,,Somerset,933,E06000066,Overall,Overall,190,0.7
+202223,Academic year,Local authority,England,E92000001,,,Somerset,933,E06000066,Overall,Overall,186,0.8
+202324,Academic year,Local authority,England,E92000001,,,Somerset,933,E06000066,Overall,Overall,156,0.8
+202425,Academic year,Local authority,England,E92000001,,,Somerset,933,E06000066,Overall,Overall,149,1
+202122,Academic year,Local authority,England,E92000001,,,Suffolk,935,E10000029,Overall,Overall,275,1.1
+202223,Academic year,Local authority,England,E92000001,,,Suffolk,935,E10000029,Overall,Overall,312,1.3
+202324,Academic year,Local authority,England,E92000001,,,Suffolk,935,E10000029,Overall,Overall,225,1.2
+202425,Academic year,Local authority,England,E92000001,,,Suffolk,935,E10000029,Overall,Overall,167,1.1
+202122,Academic year,Local authority,England,E92000001,,,Surrey,936,E10000030,Overall,Overall,655,2.5
+202223,Academic year,Local authority,England,E92000001,,,Surrey,936,E10000030,Overall,Overall,649,2.6
+202324,Academic year,Local authority,England,E92000001,,,Surrey,936,E10000030,Overall,Overall,463,2.4
+202425,Academic year,Local authority,England,E92000001,,,Surrey,936,E10000030,Overall,Overall,335,2.1
+202122,Academic year,Local authority,England,E92000001,,,Warwickshire,937,E10000031,Overall,Overall,248,1
+202223,Academic year,Local authority,England,E92000001,,,Warwickshire,937,E10000031,Overall,Overall,224,0.9
+202324,Academic year,Local authority,England,E92000001,,,Warwickshire,937,E10000031,Overall,Overall,190,1
+202425,Academic year,Local authority,England,E92000001,,,Warwickshire,937,E10000031,Overall,Overall,141,0.9
+202122,Academic year,Local authority,England,E92000001,,,West Sussex,938,E10000032,Overall,Overall,347,1.3
+202223,Academic year,Local authority,England,E92000001,,,West Sussex,938,E10000032,Overall,Overall,376,1.5
+202324,Academic year,Local authority,England,E92000001,,,West Sussex,938,E10000032,Overall,Overall,277,1.4
+202425,Academic year,Local authority,England,E92000001,,,West Sussex,938,E10000032,Overall,Overall,238,1.5
+202122,Academic year,Local authority,England,E92000001,,,North Northamptonshire,940,E06000061,Overall,Overall,202,0.8
+202223,Academic year,Local authority,England,E92000001,,,North Northamptonshire,940,E06000061,Overall,Overall,171,0.7
+202324,Academic year,Local authority,England,E92000001,,,North Northamptonshire,940,E06000061,Overall,Overall,121,0.6
+202425,Academic year,Local authority,England,E92000001,,,North Northamptonshire,940,E06000061,Overall,Overall,135,0.9
+202122,Academic year,Local authority,England,E92000001,,,West Northamptonshire,941,E06000062,Overall,Overall,203,0.8
+202223,Academic year,Local authority,England,E92000001,,,West Northamptonshire,941,E06000062,Overall,Overall,220,0.9
+202324,Academic year,Local authority,England,E92000001,,,West Northamptonshire,941,E06000062,Overall,Overall,160,0.8
+202425,Academic year,Local authority,England,E92000001,,,West Northamptonshire,941,E06000062,Overall,Overall,152,1
+202122,Academic year,Local authority,England,E92000001,,,Cumberland,942,E06000063,Overall,Overall,123,0.5
+202223,Academic year,Local authority,England,E92000001,,,Cumberland,942,E06000063,Overall,Overall,103,0.4
+202324,Academic year,Local authority,England,E92000001,,,Cumberland,942,E06000063,Overall,Overall,72,0.4
+202425,Academic year,Local authority,England,E92000001,,,Cumberland,942,E06000063,Overall,Overall,68,0.4
+202122,Academic year,Local authority,England,E92000001,,,Westmorland and Furness,943,E06000064,Overall,Overall,71,0.3
+202223,Academic year,Local authority,England,E92000001,,,Westmorland and Furness,943,E06000064,Overall,Overall,85,0.3
+202324,Academic year,Local authority,England,E92000001,,,Westmorland and Furness,943,E06000064,Overall,Overall,61,0.3
+202425,Academic year,Local authority,England,E92000001,,,Westmorland and Furness,943,E06000064,Overall,Overall,41,0.3

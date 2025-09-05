@@ -1,0 +1,10 @@
+﻿col_name,col_type,label,indicator_grouping,indicator_unit,indicator_dp,filter_hint,filter_grouping_column
+group_name,Filter,Group Name,,,,,breakdown
+programme,Filter,Induction Programme Type,,,,,
+count_swfc_ects,Indicator,ECTs starting induction,,,0,,
+count_one_year_retention,Indicator,ECTs retained after one year,,,0,,
+count_two_year_retention,Indicator,ECTs retained after two years,,,0,,
+count_three_year_retention,Indicator,ECTs retained after three years,,,0,,
+percent_one_year_retention,Indicator,Percentage of ECTs retained after one year,,%,1,,
+percent_two_year_retention,Indicator,Percentage of ECTs retained after two years,,%,1,,
+percent_three_year_retention,Indicator,Percentage of ECTs retained after three years,,%,1,,
